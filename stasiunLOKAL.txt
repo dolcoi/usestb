@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",EMYosse100+CH iTVD
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",EMY iPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",EMYiPTV Channel
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TVRILogo2006.svg/320px-TVRILogo2006.svg.png" group-title="iTV.NASIONAL",TVRI
@@ -237,8 +237,6 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:0 tvg-id="ext" group-title="emy_|FILM,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5GsQEUC.jpg" group-title="emy_|FILM"",Fox Crime
-http://iliketot.dyndns.tv/5028f7ff1d1b4d5f8189690233364737.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_family.png" tvg-id="2c3bbeac9d7621a579b275bc2ed6f67b" group-title="emy_|FILM",FOX Family Movies
 http://203.153.218.26:9981/stream/channelid/750664492?ticket=A527AFBD2805DE45C765902D98E3776BF5C4FD0C&profile=pass
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/vr1yRyl.jpg?2" group-title="emy_|FILM",My CINEMA
@@ -272,12 +270,20 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png"  group-title="emy_|MUSIK",TOP LATINO TV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://static1.bigtvhd.com/uploads/bigtvhd/channel/mix.png" group-title="",MiX First Music
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png" group-title="emy_|MUSIK",DIL SE
 https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png" group-title="emy_|MUSIK",POP HITS Bollywood
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="emy_|MUSIK",BOOGLE Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-MK-Tv-logo-final-color-113x90px.png" group-title="",MK TV
+http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.firstmedia.com/files/packages/channel-Karaoke-30.jpg" group-title=",KAROKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:0 tvg-logo="https://www.firstmedia.com/files/packages/channel_dangdutz.jpg" group-title="",DANGDUT
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/200px-Radio_m2o_-_Logo_2019.svg.png" group-title="emy_|MUSIK",RADIOM2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
@@ -377,6 +383,6 @@ http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" group-title="",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrFPfz2.jpg" group-title="EMY[VIP]",EDGE Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrFPfz2.jpg" group-title="",EDGE Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
 
