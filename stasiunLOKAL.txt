@@ -386,3 +386,75 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrFPfz2.jpg" group-title="",EDGE Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/suara-surabaya.png" group-title="emy|RADIO",Suara Surabaya 100.0 FM
+http://s9.viastreaming.net:7020/stream/1/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/dengerin-musik-indonesia.png" group-title="",Dengerin Musik Indonesia
+http://stream.denger.in:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/nagaswara.png" group-title="RADIO",Nagaswara FM 92.2
+http://bogor.nagaswarafm.com:8088/stream
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/most.png" group-title="",Most 105.8 FM|'80an & '90an. 
+http://103.246.184.34:8000/most
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/wijaya-surabaya.png" group-title="",Radio Wijaya 103.5 FM Surabaya
+http://wijayafm.onlivestreaming.net:9880/stream/1/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/she-surabaya.png" group-title="",SHE Radio 99.6 FM Surabaya
+http://s9.viastreaming.net:7070/stream/1/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/m-surabaya.png" group-title="",M Radio 98.8 FM Surabaya
+http://s9.viastreaming.net:9055/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/cosmopolitan.png" group-title="",Cosmopolitan 90.4 FM
+http://cloudstreaming.mramedia.com:8002/live
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/hard-rock.png" group-title="",Hard Rock FM 87.6
+http://cloudstreaming.mramedia.com:8001/live
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/mustang.png" group-title="",Mustang 88.0 FM
+http://103.246.184.34:8000/mustang
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/dangdut.png" group-title="",Radio Dangdut Indonesia 97.1 FM
+http://202.147.199.99:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/retjo-jogja.png" group-title="",Retjo Buntung 99.4 FM Jogja
+http://45.64.97.82:9940/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/delta-fm.png" group-title="",Delta FM 99.1
+http://103.16.199.47:8602/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/pas-pati.png" group-title="",Pas 101 FM Pati
+http://pasfmpati.indostreaming.com:8886/stream/1/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/citra-wonosobo.png" group-title="",Radio Citra 98.8 FM Wonosobo
+http://103.28.148.18:8602/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/irama-fm.png" group-title="",88.5 Irama FM
+http://stream.suararadio.com:8000/iramafm_mono
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/k-lite-bandung.png" group-title="",K Lite 107.1 FM Bandung
+http://stream.suararadio.com:8000/bandung_klitefm_mp3
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/mgt-bandung.png" group-title="",MGT Radio 101.1 FM Bandung
+http://s3.vinhostmedia.com:9572/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/dangdut-online.png" group-title="",Radio Dangdut Online
+http://45.64.98.181:8367/stream/1/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/suka-bandung.png" group-title="",Radio Suka Suka Bandung
+http://s9.viastreaming.net:7060/stream/1/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/adzan-bandung.png" group-title="",Radio Adzan FM Bandung
+http://156.67.217.23:8000/stream/1/
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/suara-muslim.png" group-title="",Suara Muslim 93.8 FM
+http://radio.useetv.com:8024/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/rodja.png" group-title="",Radio Rodja 756 AM
+http://live2.radiorodja.com:8000/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/mta-surakarta.png" group-title="",Radio MTAFM Surakarta
+http://radio.mtafm.com:1079/stream/1/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/mqfm-bandung.png" group-title="",MQFM Bandung - Indonesia
+http://radio.useetv.com/mqfm-aac
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/fajri-bogor.png" group-title="",Radio Fajri FM 99.3 MHz
+http://coloid.fajrifm.com:9930/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/al-manshuroh-cilacap.png" group-title="",Radio Al-Manshuroh Cilacap
+http://209.58.160.62:11162/stream/1/
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/kita-cirebon.png" group-title="",Radio Kita Cirebon 94,3 FM
+http://live.radiosunnah.net/
+#EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2015/11/Al-Muwahhidin-Radio.jpg" group-title="",Al Muwahhidiin Radio 2
+http://live.almuwahhidiin.com:8899/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulrahman-Alsudaes-Radio.jpg" group-title="emy_|Radio QUR'AN",Abdulrahman Alsudaes Radio
+http://live.mp3quran.net:9988/
+#EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulrahman-Al-Majed.jpg" group-title="",Abdulrahman AlMajed
+http://live.mp3quran.net:9726/
+#EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulmohsin-Al-Harthy.jpg" group-title="",Abdulmohsin AlHarthy Radio
+http://live.mp3quran.net:9856/
+#EXTINF:-1 tvg-logo="http://radioislam.or.id/wp-content/plugins/radio-islam/assets/images/radio-quran.png" group-title="",Quraan Radio
+http://66.45.232.131:9994/
+#EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulbasit-Abdulsamad-Radio.jpg" group-title="",abdulbasit Abdulsamad Radio
+http://live.mp3quran.net:9980/
+
