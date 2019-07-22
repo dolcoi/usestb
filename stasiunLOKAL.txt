@@ -391,7 +391,7 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 http://s9.viastreaming.net:7020/stream/1/
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/dengerin-musik-indonesia.png" group-title="",Dengerin Musik Indonesia
 http://stream.denger.in:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/nagaswara.png" group-title="RADIO",Nagaswara FM 92.2
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/nagaswara.png" group-title="",Nagaswara FM 92.2
 http://bogor.nagaswarafm.com:8088/stream
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/most.png" group-title="",Most 105.8 FM|'80an & '90an. 
 http://103.246.184.34:8000/most
