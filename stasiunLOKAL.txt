@@ -205,8 +205,7 @@ http://45.58.62.92:8084
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="emy_|OLAHRAGA",CCTV 5+
 http://203.154.243.89:1215
 
-#EXTINF:-1 tvg-logo="" group-title="#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="ANAK-ANAK",ANIPLUS
-",50
+#EXTINF:-1 tvg-logo="" group-title="#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="ANAK-ANAK",50
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="ANAK-ANAK",ANIPLUS
 http://45.126.83.51/dr9445/h/h02/01.m3u8
@@ -227,7 +226,7 @@ http://203.153.218.26:9981/stream/channelid/1474669592?ticket=C0150330F7DB0FA3E7
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="ANAK-ANAK",BOOMERANG
 http://88.216.48.14:80/boomerang/live.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tva.onscreenasia.com/wp-content/uploads/archive/onscreenasia/miao_logo_c.jpg" group-title="KIDS",MIAO MI
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tva.onscreenasia.com/wp-content/uploads/archive/onscreenasia/miao_logo_c.jpg" group-title="",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
 
