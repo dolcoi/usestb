@@ -277,7 +277,7 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
 #EXTINF:0 logo="http://tv.dekagon.id/logo/disney_junior_us.png" tvg-id="276cc1833c28d82ea5411b15b713f971"" group-title="ANAK-ANAK",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KIDS",  DISNEY JUNIOR XD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="ANAK-ANAK",  DISNEY JUNIOR XD
 http://62.210.29.65:80/live.ts?channelId=96&deviceMac=00:1A:79:BE:3F:22&uid=767&hops=1
 #EXTINF:0 logo="http://tv.dekagon.id/logo/disney_channel_global.png" tvg-id="3766117da69ce90f5cb3f0ea09df5f80"" group-title="ANAK-ANAK",DISNEY CHANNEL
 http://203.153.218.26:9981/stream/channelid/2098292279?ticket=2D9B6B70CDE034BBCEEE0C87A924E7BD51DFF42F&profile=pass
