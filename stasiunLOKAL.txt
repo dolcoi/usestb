@@ -6,34 +6,29 @@ http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?EDSONSOUSALIST
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TVRILogo2006.svg/320px-TVRILogo2006.svg.png" group-title="iTV.NASIONAL",TVRI
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-http://202.80.222.171/000001/2/ch14041511560872104862/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6e/Rcti_%282%29.png/320px-Rcti_%282%29.png" group-title="iTV.NASIONAL",RCTI
 http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://202.80.222.171/000001/2/ch14041511532707866226/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="iTV.NASIONAL",GTV
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://202.80.222.171/000001/2/ch14041511505498448705/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/100px-MNCTV_logo_2015.svg.png" group-title="iTV.NASIONAL",MNCTV
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://202.80.222.171/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 http://id2.indostreamingtv.com/live/event/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/100px-INews.png" group-title="iTvD.BERITA,Inews
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://edge.okezone.com/live/inewsokezone.com.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/100px-SCTV_Logo.svg.png" group-title="iTV.NASIONAL",SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://202.80.222.171/000001/2/ch15010918464887721048/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 http://id2.indostreamingtv.com/live/tv2/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="iTV.NASIONAL",Indosiar
-http://202.80.222.171/000001/2/ch15051810235326945512/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/Liga_1_Shopee.png/200px-Liga_1_Shopee.png" group-title="emy_|OLAHRAGA",Indosiar |LIGA SHOOPEE
 http://203.153.218.26:9981/stream/channelid/1508492680?ticket=5333A6234C818D2D61D5FDB0A896D14C05336BCA&profile=pass
@@ -44,12 +39,11 @@ http://210.210.155.35/session/7fd33922-46b1-11e9-b863-c81f66f89318/qwr9ew/s/s102
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/320px-TvOne_logo_2012.svg.png" group-title="iTV.NASIONAL",TVONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://202.80.222.171/000001/2/ch14061215030555428637/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" group-title="iTV.NASIONAL",MetroTV
+http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-http://202.80.222.171/000001/2/ch14041511515576869807/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="iTV.NASIONAL",Trans7
 http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -58,18 +52,15 @@ http://id1.indostreamingtv.com/live/tv77/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/320px-Trans_TV_2013.svg.png" group-title="iTV.NASIONAL",Trans TV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://202.80.222.171/000001/2/ch14041511552652254306/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://id6.indostreamingtv.com/live/tv33/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/320px-Rajawali_Televisi.svg.png" group-title="iTV.NASIONAL",RTV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://202.80.222.171/000001/2/ch00000090990000001716/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 http://45.126.83.51/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/320px-KOMPAS_TV_%282017%29.png" group-title="iTV.NASIONAL",Kompas TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://202.80.222.171/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Net_TV_nepal.jpg" group-title="iTV.NASIONAL",NET.
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
@@ -81,10 +72,10 @@ http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=0
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/update_june_mncsport.jpg" group-title="emy_|OLAHRAGA",MNCSports
-https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-static.metube.id//avatars/channels/sEP6M5OVxi4OrgeXZNUd.png" group-title="iTvD.BERITA",MNCNews
-http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png" group-title="iTvD.BERITA",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w82572914_b384000_sleng.m3u8
@@ -147,6 +138,7 @@ http://103.30.1.14:8080/hls/live.m3u8
 http://stream.asianastream.com:1935/live/ngrp:madanitv_all/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/8o71OfO.png" group-title="iRELIGI",TV9 NUSANTARA
+http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
 http://119.235.249.60:1935/tv9/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-NU-Channel-Logo-alpha-70x90px.png" group-title="iRELIGI",NU CHANNEL
@@ -194,6 +186,10 @@ http://210.210.155.35/uq2663/h/h10/index.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="MBC1.net" group-title="emy_|ENTERTAINMENT",MBC HD
 http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="emy_|ENTERTAINMENT",MBC2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="emy_|ENTERTAINMENT",MBC4 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="Redetv.br" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/LOGO_REDETV%21.png" group-title="",RedeTV!
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
 #EXTINF:0 tvg-id="dwelle" group-title="emy_|ENTERTAINMENT",DW TV
@@ -218,7 +214,20 @@ http://210.210.155.35/uq2663/h/h37/index2.m3u8
 http://210.210.155.35/uq2663/h/h11/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="emy_|ENTERTAINMENT",K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
-
+#EXTINF:0 tvg-id="SBS.us" group-title="emy_|ENTERTAINMENT",SBS
+http://210.210.155.35/qwr9ew/s/s42/01.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://oona.tv/assets/img/channels/homeandliving.png" group-title="emy_|ENTERTAINMENT",HOME & LIVING
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="emy_|ENTERTAINMENT",FOODIE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3b/Automoto_TV_Logo_2015.png" group-title="emy_|ENTERTAINMENT",100% AutoMoto.TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/tv5-monde-style.jpg" group-title="emy_|ENTERTAINMENT",STYLE 
+http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="emy_|ENTERTAINMENT",EGG NETWORK ID
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+#EXTINF:0 tvg-id="ext",TLC 
+http://80.80.160.168/live/2/live.m3u8
 
 
 
@@ -303,18 +312,12 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:0 tvg-id="ext" group-title="emy_|FILM",CinemaWorld
 http://210.210.155.35/uq2663/h/h04/01.m3u8
-#EXTINF:0 tvg-id="SBS.us" group-title="emy_|FILM",SBS
-http://210.210.155.35/qwr9ew/s/s42/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="emy_|FILM",ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:0 tvg-logo="https://cdn6.aptoide.com/imgs/5/5/c/55c7cb6c0a0661864d88d31f5b181cf8_icon.png?w=120" group-title="",G-Bollywood
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 #EXTINF:-1 tvg-id="StarMovies.sa" tvg-logo="https://i.imgur.com/32rrn3W.jpg?1" group-title="emy_|FILM",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="emy_|FILM",MBC2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="emy_|FILM",MBC4 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="emy_|FILM",MAX 
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo"https://www.satlogo.com/hires/ww/wow_cinema_in.png" group-title="emy_|FILM",WOW CINEMA
@@ -327,8 +330,6 @@ http://95.170.215.118/hls/m3u8/FOX-FAMILY-AA-SSS-Q-RR.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:0 tvg-id="retro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/RetroTV_logo.png" group-title="emy_|FILM",RETRO TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_family.png" tvg-id="2c3bbeac9d7621a579b275bc2ed6f67b" group-title="emy_|FILM",FOX Family Movies
-http://203.153.218.26:9981/stream/channelid/750664492?ticket=A527AFBD2805DE45C765902D98E3776BF5C4FD0C&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.21cineplex.com/images/bioskop.png" group-title="",new|BIOSKOP EMY_01
 http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.21cineplex.com/images/bioskop.png" group-title="",new|BIOSKOP EMY_02
@@ -370,20 +371,6 @@ http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3
 #EXTINF:0 group-title="emy_|MUSIK",CLUBLAND
 http://178.193.147.159:9981/stream/channelid/1?ticket=9BFC3DC7D5CEA86F9FE843E14AB3D54142D729E6
 
-
-
-#EXTINF:0 tvg-id="ext" tvg-logo="https://oona.tv/assets/img/channels/homeandliving.png" group-title="iLIFESTYLE",HOME & LIVING
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="iLIFESTYLE",FOODIE
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3b/Automoto_TV_Logo_2015.png" group-title="iLIFESTYLE",100% AutoMoto.TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/tv5-monde-style.jpg" group-title="iLIFESTYLE",STYLE 
-http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
-#EXTINF:0 tvg-id="ext" group-title="iLIFESTYLE",EGG NETWORK ID
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
-#EXTINF:0 tvg-id="ext",TLC 
-http://80.80.160.168/live/2/live.m3u8
 
 #EXTINF:0 tvg-id="DIYNetworkHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/320px-DIY_Network_logo.svg.png" group-title="emy_|EXPLORER",new|DIY Network
 http://primemediatv.co.uk:80/Mp5JGVEwCP/XJq2eu94Wd/17503
@@ -463,6 +450,8 @@ http://203.153.218.26:9981/stream/channelid/1637650880?ticket=CEFE29589C50C23645
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrFPfz2.jpg" group-title="",EDGE Sport |1080p
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="",JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Fashion_tv_hd.pnggroup-title="emyTV_|1080p",FTV MIDNIGHT |1080p
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:0 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/hdfashion.png" group-title="",HDFASHION LIFESTYLE |1080p
