@@ -7,6 +7,15 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emy.TV @dolcoi
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?vOneReborn
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTf0u7tj8KAqbzQjl-uMsOyoyhR3DdUjva48eJKDZfqcvEe04v",AXN
+http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg",Be!NSPORT 1
+rtmp://118.97.96.17:1935/discover/beib1_3
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg",Be!NSPORT 2
+rtsp://118.97.96.17:1935/discover/beib2_4
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TVRILogo2006.svg/320px-TVRILogo2006.svg.png" group-title="iTV.NASIONAL",TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
@@ -367,8 +376,8 @@ http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3
 
 
 #EXTINF:0 tvg-id="DIYNetworkHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/320px-DIY_Network_logo.svg.png" group-title="emy_|EXPLORER",new|DIY Network
-http://primemediatv.co.uk:80/Mp5JGVEwCP/XJq2eu94Wd/17503
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/200px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="",ANIMAL PLANET
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/200px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="emy_|EXPLORER",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1cZJebM.png" group-title="",Discovery Asia
 http://61.216.10.122:4046/VideoInput/play.ts
@@ -380,6 +389,7 @@ http://80.80.160.168/live/9/live.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8
 http://203.153.218.26:9981/stream/channelid/1159590602?ticket=1E34ECC57050E107C6B5221BF8D822D94E071607&profile=pass
 #EXTINF:-1 tvg- logo="http://tv.dekagon.id/logo/nat_geo_wild_us.png" tvg-id="6d7217574bc1970e8b152657fb354b7b",NAT GEO Wild
+rtmp://118.97.96.17:1935/discover/natgeowild_4
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8
 http://203.153.218.26:9981/stream/channelid/1461154413?ticket=470997BD0AA45FCC91573E9E6608416A03977FF6&profile=pass
 #EXTINF:-1 tvg- logo="http://tv.dekagon.id/logo/nat_geo_people_asia.png" tvg-id="31392caa0cf1109c49a675d48b70fedf",NAT GEO People
