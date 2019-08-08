@@ -25,6 +25,10 @@ http://45.126.83.51/dr9445/h/h16/index.m3u8
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png",DIL SE
 https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+#EXTINF:-1,MOLA-SPORT1
+http://cdn01.mola.tv/hls/live/2006564/event_3/2.m3u8
+#EXTINF:-1,MOLA-SPORT2
+http://cdn01.mola.tv/hls/live/2006562/event_1/2.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg",Be!NSPORT 1
 rtmp://118.97.96.17:1935/discover/beib1_4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg",Be!NSPORT 2
@@ -47,8 +51,7 @@ rtmp://118.97.96.17:1935/discover/ohk_4
 rtmp://118.97.96.17:1935/discover/sbsin_4
 #EXTINF:-1,BIGBUCKBUNNY
 http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
-#EXTINF:-1,TVN MOVIES
-http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
+
 #EXTINF:0,CCTV|Toronto-Niagara Falls
 https://videos3.earthcam.com/fecnetwork/4559.flv/chunklist_w1710330302.m3u8
 #EXTINF:0,THE WEATHER CHANNEL
