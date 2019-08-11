@@ -34,10 +34,7 @@ http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kb7Kkht/byuTV.png",ByuTV
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/khC32TY/kdrama.png",K Drama
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y5MtkJR/K.png",K Plus
-http://210.210.155.35/uq2663/h/h08/index1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9sGL5GG/foxmovies.png",Fox Movies
 http://103.242.13.90:5555/udp/239.4.1.84:10000
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzDZHyQ/foxpremium.png",Fox Premium
@@ -71,96 +68,10 @@ http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
 #EXTINF:-1 tvg-logo="",TV Tokyo
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
 
-#EXTINF:0 group-title="emy| HIBURAN",AXN
-http://210.210.155.35:80/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/02.m3u8
-#EXTINF:0,AXN
-http://210.210.155.35:80/session/e09e3200-6fe9-11e9-9c14-c81f66f89318/uq2663/h/h141/02.m3u8
-#EXTINF:0,THRILL
-http://210.210.155.35:80/session/3879c080-6fe9-11e9-97ae-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:0,THRILL
-http://210.210.155.35:80/session/b4f331b6-65ba-11e9-994b-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:0,KIX
-http://210.210.155.35:80/session/7138a8de-65ba-11e9-ac46-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:0,KIX
-http://210.210.155.35:80/session/02206fb8-6371-11e9-9f35-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:0,CELESTIAL MOVIE
-http://210.210.155.35:80/session/042a52ec-65ba-11e9-994b-b82a72d63267/qwr9ew/s/s33/02.m3u8
-#EXTINF:0,CREISTAL
-http://210.210.155.35:80/session/91ba8164-6370-11e9-b0d8-b82a72d63267/qwr9ew/s/s33/01.m3u8
-#EXTINF:0,MY CINEMA
-http://210.210.155.35:80/session/f1e4e1b0-65b9-11e9-90c2-c81f66f89318/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:0,CINEMA WORD
-http://210.210.155.35:80/session/42976cd6-65ba-11e9-97a9-c81f66f89318/uq2663/h/h04/02.m3u8
-#EXTINF:0,BLUE EXTREME
-http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
-#EXTINF:0,BLUE ANT ENTETTAIMENT
-http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
-#EXTINF:0,BLUE EXTREME
-http://45.126.83.51:80/session/b74c136c-7251-11e9-9783-83b5ae4d75de/dr9445/h/h15/01.m3u8
-#EXTINF:0,CINEMA WORD
-http://210.210.155.35:80/session/1be19ff4-7252-11e9-8405-a92a8c3111c3/uq2663/h/h04/02.m3u8
-#EXTINF:0,CELESTIAL MOVIE
-http://210.210.155.35:80/session/c226d988-7252-11e9-8337-aa49a6967466/qwr9ew/s/s33/01.m3u8
-#EXTINF:0,FOX CIMEMA
-http://161.0.157.7:80/PLTV/88888888/224/3221226793/03.m3u8
-#EXTINF:0,CINEMA
-http://210.210.155.35:80/session/0b9b9f12-7254-11e9-bbf6-a22f891f1763/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:0, REAL MADRID TV
-http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:0,SUPER SOCCER
-http://210.210.155.35:80/session/3bd9c080-65b8-11e9-b0d8-b82a72d63267/uq2663/h/h20/02.m3u8
-#EXTINF:0,FIGHT SPORT TV
-http://210.210.155.35:80/session/d7fa003a-65bb-11e9-9057-c81f66f89318/uq2663/h/h05/01.m3u8
-
-
-#EXTINF:0 tvg-id="ext" group-title="UseeTV Playlist",CNN Indonesia
-http://203.153.218.26:9981/stream/channelid/180919192?ticket=AAE205ED02B6995C39526B3A81C5269C6EC2C9E5&profile=pass
-#EXTINF:0 tvg-id="ext",Kompas TV
-http://203.153.218.26:9981/stream/channelid/925992747?ticket=0512AECB6BDA86BF3F031419C7465704BF3F4D1B&profile=pass
-#EXTINF:0 tvg-id="ext",Trans7
-http://203.153.218.26:9981/stream/channelid/302821177?ticket=6E3A42222F8C5A22B9DF709E8FBAB32EE0678A1F&profile=pass
-#EXTINF:0 tvg-id="ext",TransTV
-http://203.153.218.26:9981/stream/channelid/611995608?ticket=05B4826A7C90A4D36F9470936012F310063DC37D&profile=pass
-#EXTINF:0 tvg-id="ext",TV One
-http://203.153.218.26:9981/stream/channelid/304965952?ticket=6658654B0D66E99A09184DAE61124C92D862B140&profile=pass
-#EXTINF:0 tvg-id="ext",AXN
-http://203.153.218.26:9981/stream/channelid/2032967620?ticket=04BD86FCB6486BCCBA611F715BC4E9FD2980DFC0&profile=pass
-#EXTINF:0 tvg-id="ext",Asian Food Channel
-http://203.153.218.26:9981/stream/channelid/723941166?ticket=D7007F1B810F9452E032764514A363AECEEF14C7&profile=pass
-#EXTINF:0 tvg-id="ext",National Geographic
-http://203.153.218.26:9981/stream/channelid/1159590602?ticket=55D18727AA8ECEAEF11B736E45F4CA49EBD3B935&profile=pass
-#EXTINF:0 tvg-id="ext",NatGeo People
-http://203.153.218.26:9981/stream/channelid/707541297?ticket=4F30AF7F793B854E1594B79F55E16F4A5EF252B2&profile=pass
-#EXTINF:0 tvg-id="ext",Nat Geo Wild
-http://203.153.218.26:9981/stream/channelid/1461154413?ticket=4FAAC14602FD52B2A229A045E13363C717499908&profile=pass
-#EXTINF:0 tvg-id="ext",History
-http://203.153.218.26:9981/stream/channelid/855888891?ticket=246D372B6A4694DD4CBADA4FF5C17FDC2ACF6E98&profile=pass
 #EXTINF:0 tvg-id="ext",Discovery
 http://80.80.160.168/live/8/2500000/live.m3u8
 #EXTINF:0 tvg-id="ext",Discovery Asia
 http://61.216.10.122:4046/VideoInput/play.ts
-#EXTINF:0 tvg-id="ext",HGTV
-http://primemediatv.co.uk:80/Mp5JGVEwCP/XJq2eu94Wd/17506
-#EXTINF:0 tvg-id="ext",FX
-http://168.70.117.112:9981/stream/channelid/810155346?ticket=7BBFE9A5477070D6678A9D9481EFBFC3ED26310A&profile=pass
-#EXTINF:0 tvg-id="ext",HBO HD [ID]
-http://203.153.218.26:9981/stream/channelid/329070532?ticket=C216910D406C7AC587B70A9E00D0737000DA10E3&profile=pass
-#EXTINF:0 tvg-id="ext",HBO Family [ID]
-http://203.153.218.26:9981/stream/channelid/960201661?ticket=DD1E8ECAA5C1D6F5BCC7A5191D3B85D10DC31573&profile=pass
-#EXTINF:0 tvg-id="ext",HBO Hits [ID]
-http://203.153.218.26:9981/stream/channelid/1742170657?ticket=7EC3411A5CBA4B69D8B2C473FD85D46521DDC656&profile=pass
-#EXTINF:0 tvg-id="ext",HBO Signature [ID]
-http://203.153.218.26:9981/stream/channelid/2140740959?ticket=E937CF24C15EE29C87449013B14B459D142D3081&profile=pass
-#EXTINF:0 tvg-id="ext",Fox Action Movies [ID]
-http://203.153.218.26:9981/stream/channelid/1764566305?ticket=90D65480A1F3D9EEFD3D231667D04A91DBF61631&profile=pass
-#EXTINF:0 tvg-id="ext",Fox Family Movies [ID]
-http://203.153.218.26:9981/stream/channelid/750664492?ticket=8C4723BBAF64507623723C80FB878F84E003F868&profile=pass
-#EXTINF:0 tvg-id="ext",Fox Movies [ID]
-http://203.153.218.26:9981/stream/channelid/537366571?ticket=D7CB9BF7BBE3C67B3ACA0559B54D1FCD9B370969&profile=pass
-#EXTINF:0 tvg-id="ext",Fox [ID]
-http://203.153.218.26:9981/stream/channelid/321155929?ticket=429643142E288BD2EA2C04DA0D5C9DB81A60A954&profile=pass
-#EXTINF:0 tvg-id="ext",Cinemax [ID]
-http://203.153.218.26:9981/stream/channelid/51542457
 
 #EXTINF:-1 tvg-id="ext" group-title="useeMovies",FOX ACTION MOVIES HD ID
 http://203.153.218.26:9981/stream/channelid/1764566305?ticket=E314242AF5F22B67F5CD88FA1269339AB5327035&profile=pass
@@ -182,27 +93,11 @@ http://203.153.218.26:9981/stream/channelid/2098292279?ticket=910A916096C151BA9E
 http://203.153.218.26:9981/stream/channelid/63007783?ticket=5BFBF7F46D556AD53DD53E4FBF981C122DB8EA6E&profile=pass
 #EXTINF:-1,CARTON NETWORK HD ID
 http://203.153.218.26:9981/stream/channelid/1550146228?ticket=Fhttp447A81D0ADhttp1B604945DBF95DB3C879C1A26EA1A&profile=pass
-#EXTINF:-1,RTM TV1 HD
-http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-#EXTINF:-1,RTM TV2 HD
-http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-#EXTINF:-1,RTM TV3 HD
-http://103.82.219.66:6543/live/9B018DFCEDA448F380405340C339AD72/playlist.m3u8?sid=6b8dfbcaa1a84158b4821a4e37625f52&origin=MTAuMjAuNjMuMjAyOjYwNjA=
 #EXTINF:-1,PPTV HD
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1,TRUE 4U HD
 http://183.182.100.184/live/true4u/chunklist.m3u8
 
-#EXTINF:0 group-title="emy|OUTHERSIDE,,HBO 2
-http://176.67.211.7:8003/udp/239.1.9.62:22962
-#EXTINF:0,FS1 Sports
-http://23.237.22.82:8086/udp/127.0.0.1:56046
-#EXTINF:0,FS2 Sports
-http://23.237.22.82:8086/udp/127.0.0.1:56047
-#EXTINF:0,FOX SPORT USA 1
-http://23.237.22.82:8086/udp/127.0.0.1:56046
-#EXTINF:0,FOX SPORT USA 2
-http://23.237.22.82:8086/udp/127.0.0.1:56047
 #EXTINF:0,AL-AQSA PALESTINE TV
 http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 #EXTINF:0,ALMIEN
@@ -211,104 +106,10 @@ http://almientv.onlivestreaming.net/almientv/livestream/playlist.m3u8
 #EXTINF:0 group-title="emy|rtmp",TV9 NUSANTARA
 rtmp://videostream.indostreamserver.com:1935/tv9/live
 
-#EXTINF:0 tvg-id="ext" group-title="24/7 Undefined",HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:0 tvg-id="ext" group-title="24/7 Undefined",WOWOW MOVIES
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-
-
-#EXTINF:0 tvg-id="ext" group-title="emy|24/7 MOVIESTIMES",Science Fiction MovieS
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
-#EXTINF:0 tvg-id="ext",Iron Man Movies
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:0 tvg-id="ext",Drivers Movies
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
-#EXTINF:0 tvg-id="ext",Zombie MovieS|Resident Evil
-https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:0 tvg-id="ext",Mandarin Channel
-https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
-#EXTINF:0 tvg-id="ext",Hollywood Channel
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
-
-#EXTINF:-1,EXTINF:-1,Movies EN
-https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1,EXTINF:-1, Movies En1
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1,EXTINF:-1,Movies EN 2
-https://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1,EXTINF:-1 ,Movies EN 3
-https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
-#EXTINF:-1,EXTINF:-1,Movies EN 4
-https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1,EXTINF:-1,Movies EN 5
-https://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8
-#EXTINF:-1,EXTINF:-1,Movies EN 6
-https://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:-1,EXTINF:-1,Movies EN 7
-https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-#EXTINF:-1,24/7 MOVIES 2
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-#EXTINF:-1,24/7 MOVIES 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1,24/7 MOVIES 4
-http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1,24/7 MOVIES 5
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-#EXTINF:-1,24/7 MOVIES 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1,24/7 MOVIES 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:-1,24/7 MOVIES 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1,24/7 MOVIES 9
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1,24/7 MOVIES 9
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1,24/7 MOVIES 10
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1,24/7 MOVIES 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1,24/7 Hollywood Movies 2
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-#EXTINF:-1,24/7 Hollywood Movies 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1,24/7 Hollywood Movies 4
-http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1,24/7 Hollywood Movies 5
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-#EXTINF:-1,24/7 Hollywood Movies 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1,24/7 Hollywood Movies 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:-1,24/7 Hollywood Movies 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1,24/7 Hollywood Movies 9
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1,24/7 Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1,24/7 science fiction movie
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8 
-#EXTINF:-1,24/7 Movies-4
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SxRzFO8.png" group-title="24/7",Cooking 4U
-https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AjnHVZw.png" group-title="24/7",Cartoons 4U
-https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 group-title="SPORTS",ESPN
-http://80.80.160.168/live/6/2500000/live.m3u8
-#EXTINF:-1 group-title="SPORTS",MOTOR SPORT
-http://45.58.62.92:8084
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="24/7",America's Funniest Videos
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="24/7",BYUtv (HD)
-https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 #EXTINF:-0,HBO
 http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8
  #EXTINF:-1,US:HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca525b650be2571e3943c63/featuredImage.jpg" group-title="24/7 PLUTO TV",80s Rewind
 https://stitcher.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=duaohqlqf26jfvbh443n3ie5g0
@@ -751,81 +552,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363ac9e41be30cb6054c7c/featuredImage.jpg" group-title="24/7 PLUTO TV",Yu-Gi-Oh! 5D’s
 https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/es.pokemon/images/0/06/Jigglypuff_%28anime_AG%29.png" group-title="24/7 MANDARIN",Anime
-http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Detective_Conan_logo.svg/1280px-Detective_Conan_logo.svg.png" group-title="24/7 MANDARIN",Case Closed
-http://alhls.cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8
- 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dragonball/images/9/9b/Dragon_Ball_Z_Logo.png" group-title="24/7 MANDARIN",Dragon Ball Z
-http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/580b57fbd9996e24bc43bd6a.png" group-title="24/7 MANDARIN",Harry Potter Films
-http://aldirect.hls.huya.com/huyalive/29169025-2686221528-11537233612571148288-2847687610-10057-A-1523932939-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 1
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 3
-http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 4
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 5
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 6
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 7
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 8
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 9
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="24/7 MANDARIN",Hollywood Movies 10
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pics.prcm.jp/dea3d5a8dcd76/53796588/png/53796588.png" group-title="24/7 MANDARIN",Kuroko's Basketball
-http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9pz9Jx3gtOc/maxresdefault.jpg" group-title="24/7 MANDARIN",Mandarin Movies
-http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-DKhTfvcDZf8/UDFvF4pjZzI/AAAAAAAADXs/gNoEWv8nEGo/s1600/title.jpg" group-title="24/7 MANDARIN",Mandarin Series
-http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/animeandmangauniverse/images/4/48/Naruto_Shippuden_Logo.png" group-title="24/7 MANDARIN",Naruto Shippuden
-http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="24/7 MANDARIN",Top Movies 1
-http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="24/7 MANDARIN",Top Movies 2
-http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="24/7 MANDARIN",Top Movies 3
-http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="24/7 MANDARIN",Top Movies 4
-http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="24/7 MANDARIN",Top Movies 5
-http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="24/7 MANDARIN",Top Movies 6 (New!)
-http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="24/7 MANDARIN",Top Movies 7 (New!)
-http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YVziC4l.png" group-title="Without category", (ONLINE) TV1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
  
@@ -984,38 +710,4 @@ http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29631?token=GkQJ
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aQyssAg.png" group-title="Without category", (ONLINE) WWE
 http://195.181.170.48:25461/live/amachongz@gmail.com/uRXMe6NlG0/29587?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rpJyXdK.png" group-title="- IPTV",Hot Korean Dance-Off (New!)
-http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",BEIN SPORTS 1 HD UseeTV
-rtmp://118.97.96.17:1935/discover/beib1_4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",BEIN SPORTS 2 HD UseeTV
-rtmp://118.97.96.17:1935/discover/beib2_4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",BEIN SPORTS 3 HD UseeTV
-rtmp://118.97.96.17:1935/discover/beib3_4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",FOX SPORTS 1 HD UseeTV
-rtmp://118.97.96.17:1935/discover/foxsport1_4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",FOX SPORTS 2 HD UseeTV
-rtmp://118.97.96.17:1935/discover/foxsport2_4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",FOX SPORTS 3 HD UseeTV
-rtmp://118.97.96.17:1935/discover/foxsport3_4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",NAT GEO HD UseeTV
-rtmp://118.97.96.17:1935/discover/natgeo_4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",NAT GEO PEOPLE HD UseeTV
-rtmp://118.97.96.17:1935/discover/natgeopeople_4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",NAT GEO WILD HD UseeTV
-rtmp://118.97.96.17:1935/discover/natgeowild_4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",HISTORY HD UseeTV
-rtmp://118.97.96.17:1935/discover/history_4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",DISCOVERY HD UseeTV
-rtmp://118.97.96.17:1935/discover/disco_4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",SBS IN HD UseeTV
-rtmp://118.97.96.17:1935/discover/sbsin_4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",OH!K HD UseeTV
-rtmp://118.97.96.17:1935/discover/ohk_4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",WAKU-WAKU HD UseeTV
-rtmp://118.97.96.17:1935/discover/wakuwaku_4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWc2w0Lb/USEETV.png" group-title="USEE♥TV",ASIAN FOOD HD UseeTV
-rtmp://118.97.96.17:1935/discover/afc_4
 
