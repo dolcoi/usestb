@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",EMYosse100+CH iTVD
-http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?EMYLIST
+http://tv.dens.tv/live/a/a01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",EMYiPTV Channel
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?vOneReborn.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emy.TV @dolcoi
@@ -14,69 +14,60 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:0,HELLO |HD
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTf0u7tj8KAqbzQjl-uMsOyoyhR3DdUjva48eJKDZfqcvEe04v",AXN
-http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141/index.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
 #EXTINF:0,Channel 8 |HD
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/98T28O9.png",BLUE ANT EXTREME
-http://45.126.83.51/dr9445/h/h15/index.m3u8
-#EXTINF:0,BLUE ANT ENTERTAINMENT
-http://45.126.83.51/dr9445/h/h16/index.m3u8
 #EXTINF:0,MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png",DIL SE
 https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
-#EXTINF:-1,MOLA-SPORT1
-http://cdn01.mola.tv/hls/live/2006564/event_3/2.m3u8
-#EXTINF:-1,MOLA-SPORT2
-http://cdn01.mola.tv/hls/live/2006562/event_1/2.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg",Be!NSPORT 1
-rtmp://118.97.96.17:1935/discover/beib1_4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg",Be!NSPORT 2
-rtmp://118.97.96.17:1935/discover/beib2_4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg",Be!NSPORT 3
-rtmp://118.97.96.17:1935/discover/beib3_4
-#EXTINF:-1,FOX SPORTS 1HD
-rtmp://118.97.96.17:1935/discover/foxsport1_4
-#EXTINF:-1,FOX SPORTS 2HD
-rtmp://118.97.96.17:1935/discover/foxsport2_4
-#EXTINF:-1,FOX SPORTS 3HD
-rtmp://118.97.96.17:1935/discover/foxsport3_4
-#EXTINF:-1,ASIAN FOOD HD
-rtmp://118.97.96.17:1935/discover/afc_4
-#EXTINF:-1,WAKU-WAKU HD
-rtmp://118.97.96.17:1935/discover/wakuwaku_4
-#EXTINF:-1,OH!K HD
-rtmp://118.97.96.17:1935/discover/ohk_4
-#EXTINF:-1,SBS IN HD
-rtmp://118.97.96.17:1935/discover/sbsin_4
+
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/5afbe569ee216f50f35857ae/5afc1d77ee216f5987589230_efd98bdb-233b-4afe-b6f5-d5cd93b44d82-p-800.png",RedBull TV|HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,PPTV |EPL
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:-1,,Workpoint
+http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
+#EXTINF:-1,FOX SPORTS
+http://45.58.62.92:8080
+#EXTINF:-1,Insight TV HD
+http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
+#EXTINF:-1,BMS TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
+#EXTINF:-1,SPORT ChannelFeed
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:-1,JemberTV
+http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
+#EXTINF:-1,MUGOS TV
+http://203.153.218.156:1935/live/myStream/playlist.m3u8
 #EXTINF:-1,BIGBUCKBUNNY
 http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
-
-#EXTINF:0,CCTV|Toronto-Niagara Falls
-https://videos3.earthcam.com/fecnetwork/4559.flv/chunklist_w1710330302.m3u8
-#EXTINF:0,THE WEATHER CHANNEL
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0,Gramedia TV
+http://203.153.218.26:9981/stream/channelid/1483038845?ticket=39AD12280C9F70015D69E672A0F34CEE3EAF757E&profile=pass
+#EXTINF:0, tvg-logo="http://content.osn.com/logo/channel/cropped/NOW.png",Music Now
+http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
+#EXTINF:0,PRIME HD
+http://23.186.192.55:8080/live/primeplus/index.m3u8
+#EXTINF:0,NUSANTARA TV
+http://203.153.218.26:9981/stream/channelid/1720680830?ticket=2FC47E8010DAF08893E9BB83314E0DC495CC1551&profile=pass
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TVRILogo2006.svg/320px-TVRILogo2006.svg.png" group-title="iTV.NASIONAL",TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6e/Rcti_%282%29.png/320px-Rcti_%282%29.png" group-title="iTV.NASIONAL",RCTI
-http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://id8.indostreamingtv.com/live/tv66/index.m3u8
+https://edge.okezone.com/live/rctioke.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="iTV.NASIONAL",GTV
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/100px-MNCTV_logo_2015.svg.png" group-title="iTV.NASIONAL",MNCTV
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://id2.indostreamingtv.com/live/event/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/100px-INews.png" group-title="iTvD.BERITA,Inews
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/100px-SCTV_Logo.svg.png" group-title="iTV.NASIONAL",SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://id2.indostreamingtv.com/live/tv2/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="iTV.NASIONAL",Indosiar
 http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -86,14 +77,11 @@ http://203.153.218.26:9981/stream/channelid/1508492680?ticket=5333A6234C818D2D61
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/320px-Antv_logo_%282017%29.svg.png" group-title="iTV.NASIONAL",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-http://210.210.155.35/session/7fd33922-46b1-11e9-b863-c81f66f89318/qwr9ew/s/s102/01.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/320px-TvOne_logo_2012.svg.png" group-title="iTV.NASIONAL",TVONE
-http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" group-title="iTV.NASIONAL",MetroTV
-http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="iTV.NASIONAL",Trans7
@@ -132,14 +120,13 @@ https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.co
 http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png" group-title="iTvD.BERITA",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w82572914_b384000_sleng.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="iTvD.BERITA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_beritasatu_big1.png" group-title="iTvD.BERITA",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""  group-title="World News Today",BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
@@ -244,12 +231,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?emytv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/200px-Mayapada_TV.png" group-title="emy_|ENTERTAINMENT",MyTV
 http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="emy_|ENTERTAINMENT",HELLO
-http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:0 tvg-id="ext" group-title="",TVIKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XrLDOWG.jpg" group-title="emy_|ENTERTAINMENT",Suria Mediacorp
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8?Suria
 #EXTINF:0 tvg-id="Redetv.br" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/LOGO_REDETV%21.png" group-title="",RedeTV!
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="",Multimedios CDMX
@@ -260,8 +243,6 @@ http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="",HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:0 tvg-id="Kix.uk" group-title="",KIX
-http://210.210.155.35/uq2663/h/h07/01.m3u8
 #EXTINF:0 tvg-id="Diva.svn" group-title="",Diva
 http://45.126.83.51:443/uq2663/h/h11/01.m3u8
 
@@ -271,8 +252,6 @@ http://210.210.155.35/session/9e3c6d0c-8b95-11e8-98cf-b82a72d63267/uq2663/h/h19/
 http://210.210.155.35/uq2663/h/h08/index1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="",KBS World Asia
 http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
-#EXTINF:0 tvg-id="ARD.de" group-title="",Das Erste
-https://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/index_3776_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="ext" tvg-logo="" group-title="emy_|ENTERTAINMENT",TLC 
 http://80.80.160.168/live/2/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="",TVN KR
@@ -298,10 +277,8 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
 #EXTINF:-1 tvg-id="StarMovies.sa" tvg-logo="https://i.imgur.com/32rrn3W.jpg?1" group-title="emy_|FILM",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="",CELESTIAL MOVIES
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="",CinemaWorld
-http://210.210.155.35/uq2663/h/h04/01.m3u8?
+http://210.210.155.35/uq2663/h/h04/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="",Thrill
 http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.21cineplex.com/images/bioskop.png" group-title="",BIOSKOP EMY_01
@@ -315,35 +292,31 @@ http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/Liga_1_Shopee.png/200px-Liga_1_Shopee.png" group-title="emy_|OLAHRAGA",useeTV Sports |LIGA SHOOPEE
 http://id2.indostreamingtv.com/live/tv111/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="emy_|OLAHRAGA",SPORT ONE
+http://203.153.218.26:9981/stream/channelid/896549830
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="emy_|OLAHRAGA",new|TVRI Sports HD
 http://203.153.218.26:9981/stream/channelid/1637650880?ticket=B5594F93E61A6DF8FDEB5D63457BE002FD4C72AA&profile=pass
 #EXTINF:0 tvg-logo="" group-title="emy_|OLAHRAGA",SportOne
 http://203.153.218.26:9981/stream/channelid/896549830?ticket=F354D6F4366C11A620137381F8150ED0359351EB&profile=pass
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-SF--WlsZW-s/XIWrQuZ0AUI/AAAAAAAAndo/SmJwjLdjPTEFj5oAKC3bpPS0jaJCy3UWgCLcBGAs/s1600/super-soccer-tv-channel-logo.png" group-title="emy_|OLAHRAGA",SUPER SOCCER TV
-http://210.210.155.35/uq2663/h/h20/index1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/km7OLyO.png" group-title="emy_|OLAHRAGA",Orange Sports HD
-http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="emy_|OLAHRAGA",NBA TV
 http://23.237.22.82:8086/udp/127.0.0.1:56052
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="emy_|OLAHRAGA",ALLSPORT
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:0 tvg-id="DDSports.in" group-title="",DSports
+#EXTINF:0,FIGHT SPORTS
+http://rr.dens.tv/h/h05/index.m3u8
+#EXTINF:0,DSports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zbxkhbs.jpg?1" group-title="emy_|OLAHRAGA",new|SENTANA SPORT
-http://ott-cdn.ucom.am/s81/index.m3u8?
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/320px-Setanta-logo.jpg" group-title="emy_|OLAHRAGA",new|SENTANA SPORT+
-http://ott-cdn.ucom.am/s82/03.m3u8
 #EXTINF:-1 tvg-logo="https://thegioidohoa.com/wp-content/uploads/2017/07/thiet-ke-logo-the-thao.png" group-title="emy_|OLAHRAGA",FEED |Live Football
 http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS474/24170c558237255a1c87bb9553c73fb2/j7tfrf3/index.m3u8
-#EXTINF:0 tvg-logo="https://images.useetv.com/logo_fight_big1.png?v=2.0.0.11" group-title="emy_|OLAHRAGA",FIGHT SPORTS
-http://45.126.83.51/uq2663/h/h05/index2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="",ESPN
 http://185.246.209.109:8080/ESPN/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="",CDO SD
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org" tvg-logo="https://i.imgur.com/xHeAQ2S.jpg?1" group-title="",WWE Network
 http://primemediatv.co.uk:80/Mp5JGVEwCP/XJq2eu94Wd/134
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/LcGRrU3.jpg" group-title="",Wrestling |Feed
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/LcGRrU3.jpg" group-title="",SPORTS |Feed
 http://cdnak1.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WnZaIlo.jpg" group-title="ANAK-ANAK",Duck TV
@@ -378,13 +351,6 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 http://210.210.155.35/dr9445/h/h144/index2.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="ANAK-ANAK",BOOMERANG
 http://88.216.48.14:80/boomerang/live.m3u8
-#EXTINF:0 logo="http://tv.dekagon.id/logo/disney_channel_global.png" tvg-id="3766117da69ce90f5cb3f0ea09df5f80"" group-title="ANAK-ANAK",DISNEY CHANNEL
-http://203.153.218.26:9981/stream/channelid/2098292279?ticket=2D9B6B70CDE034BBCEEE0C87A924E7BD51DFF42F&profile=pass
-#EXTINF:0 logo="http://tv.dekagon.id/logo/cartoon_network_global.png" tvg-id="b45a655c749810baf6d4c29a3f55f172"" group-title="ANAK-ANAK",CARTOON NETWORK HD
-http://203.153.218.26:9981/stream/channelid/1550146228?ticket=08D5C0CE1FAC06AC98B1B41DF1C045386ED84BC0&profile=pass
-http://203.153.218.26:9981/stream/channelid/1550146228?ticket=AF3DCDE080523FF64BD91861C68599813879BB0F&profile=pass
-#EXTINF:0 logo="http://tv.dekagon.id/logo/nickelodeon_us.png" tvg-id="18ace557a0cc99741f9cbbbaf2bda4d1"" group-title="ANAK-ANAK",NICKELODEON ASIA
-http://203.153.218.26:9981/stream/channelid/1474669592?ticket=C0150330F7DB0FA3E7B3E5F115FFF81D1D93E0D0&profile=pass
 
 
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Zing-150x86px.png" group-title="emy_|MUSIK",POP MUSIK
@@ -418,29 +384,24 @@ http://aldirect.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/200px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="emy_|EXPLORER",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/Discovery-Channel.jpg" group-title="",DISCOVERY|HD
-rtmp://118.97.96.17:1935/discover/disco_4
 http://80.80.160.168/live/8/live.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg- logo="http://tv.dekagon.id/logo/nat_geo_us.png" tvg-id="caf21dc58bc94e97a7f5db16c098d274",National Geographic|HD
-rtmp://118.97.96.17:1935/discover/natgeo_4
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8
 http://203.153.218.26:9981/stream/channelid/1159590602?ticket=1E34ECC57050E107C6B5221BF8D822D94E071607&profile=pass
 #EXTINF:-1 tvg- logo="http://tv.dekagon.id/logo/nat_geo_wild_us.png" tvg-id="6d7217574bc1970e8b152657fb354b7b",NAT GEO Wild|HD
-rtmp://118.97.96.17:1935/discover/natgeowild_4
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8
-http://203.153.218.26:9981/stream/channelid/1461154413?ticket=470997BD0AA45FCC91573E9E6608416A03977FF6&profile=pass
+
 #EXTINF:-1 tvg- logo="http://tv.dekagon.id/logo/nat_geo_people_asia.png" tvg-id="31392caa0cf1109c49a675d48b70fedf",NAT GEO People|HD
-rtmp://118.97.96.17:1935/discover/natgeopeople_4
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8
-http://203.153.218.26:9981/stream/channelid/707541297?ticket=B43B8ED27A5A69A2EDEF706DB73C2A8BDDD5095B&profile=pass
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" tvg-id="fbd303b30ae4cb8e3ad9b70dc26c5b01"" group-title="",HISTORY
-rtmp://118.97.96.17:1935/discover/history_4|HD
+rtmp://118.97.96.17:1935/discover/history_4
 #EXTINF:0 tvg-id="H2.uk" group-title="",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1cZJebM.png" group-title="",Discovery Asia
 http://61.216.10.122:4046/VideoInput/play.ts
 #EXTINF:0 tvg-id="discov_sci" group-title="",DISCOVERY SCIENCE HD
 http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3b/Automoto_TV_Logo_2015.png" group-title="",100% AutoMoto.TV
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3b/Automoto_TV_Logo_2015.png" group-title="",100AutoMoto.TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.dens.tv/images/channel-logo/16.jpg" group-title="",CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -513,3 +474,13 @@ http://203.153.218.26:9981/stream/channelid/611995608?ticket=4D5912DE7E219A21515
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/24/Trans-tv-1575255.png/640px-Trans-tv-1575255.png" group-title="emyTV_|1080p",TRANS|7
 http://203.153.218.26:9981/stream/channelid/302821177?ticket=01EAC3D320E33E0F9AEBC76BADB0DB63D75850C7&profile=pass
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EPL_FOOTBALL",PPTV HD
+http://183.182.100.184/live/pptvthai/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EPL_FOOTBALL",MYTV
+http://220.158.149.14:9999/live/TV00000000000000000041@HHZT;LIVE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EPL_FOOTBALL",CNC
+http://220.158.149.14:9999/live/TV00000000000000000040@HHZT;LIVE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EPL_FOOTBALL",CTN
+http://220.158.149.14:9999/live/TV00000000000000000039@HHZT;LIVE
