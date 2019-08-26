@@ -29,7 +29,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-
 #EXTINF:-1,FOX SPORTS
 http://45.58.62.92:8080
 #EXTINF:-1 tvg-logo"https://image.roku.com/developer_channels/prod/1e5c16c668836f73c21e59f559c28c2e210ff80cd21a45c582c3b64a9617f586.png",Insight
@@ -40,17 +39,13 @@ http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 #EXTINF:-1,Jember 1TV
 http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
-#EXTINF:-1,Zing
-http://pockettv.xyz/api/zee.m3u8?c=zing
-
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-dbhI3Wo2GyU/XR0_nZwT5sI/AAAAAAAAAK0/MK1VN6Xrq2YAN8XJssgUAguihtxrldwCwCLcBGAs/s1600/GramediaTV.png",Gramedia TV
 http://203.153.218.26:9981/stream/channelid/1483038845?ticket=39AD12280C9F70015D69E672A0F34CEE3EAF757E&profile=pass
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/320px-Cartoon_Network_2004_logo.svg.png",IT| Cartoon Network
 https://1.ip2stream.icu/live/cartoon_network_hd/chunks.m3u8
 #EXTINF:0,NUSANTARA TV
 http://203.153.218.26:9981/stream/channelid/1720680830?ticket=2FC47E8010DAF08893E9BB83314E0DC495CC1551&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TVRILogo2006.svg/320px-TVRILogo2006.svg.png" group-title="iTV.NASIONAL",TVRI
-http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/11/Tvri_jadul.svg/314px-Tvri_jadul.svg.png" group-title="iTV.NASIONAL",TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6e/Rcti_%282%29.png/320px-Rcti_%282%29.png" group-title="iTV.NASIONAL",RCTI
@@ -68,16 +63,16 @@ http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/100px-SCTV_Logo.svg.png" group-title="iTV.NASIONAL",SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="iTV.NASIONAL",Indosiar
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/9/95/20140331033248%21INDOSIAR_Logo_2.png" group-title="iTV.NASIONAL",Indosiar
 http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/Liga_1_Shopee.png/200px-Liga_1_Shopee.png" group-title="emyDOLTV |OLAHRAGA",Indosiar |LIGA SHOOPEE
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/Liga_1_Shopee.png/200px-Liga_1_Shopee.png" group-title="emyDOLTV |OLAHRAGA",LIGA SHOOPEE
 http://203.153.218.26:9981/stream/channelid/1508492680?ticket=5333A6234C818D2D61D5FDB0A896D14C05336BCA&profile=pass
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/320px-Antv_logo_%282017%29.svg.png" group-title="iTV.NASIONAL",ANTV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/Logo_Antv_2003-2006.svg/320px-Logo_Antv_2003-2006.svg.png" group-title="iTV.NASIONAL",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/320px-TvOne_logo_2012.svg.png" group-title="iTV.NASIONAL",TVONE
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5d/TvOne_logo_%282008%29.svg/320px-TvOne_logo_%282008%29.svg.png" group-title="iTV.NASIONAL",TVONE
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" group-title="iTV.NASIONAL",MetroTV
