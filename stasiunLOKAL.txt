@@ -16,7 +16,7 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:0 tvg-logo="https://liveatpc.com/wp-content/uploads/2018/08/Astro-HEllo-750x535.jpg",HELLO|HD
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png",AXN
-http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
+http://210.210.155.35:80/session/e09e3200-6fe9-11e9-9c14-c81f66f89318/uq2663/h/h141/02.m3u8
 #EXTINF:0 tvg-logo="https://www.mediacorp.sg/blob/5896992/f95ae8547038eb5a8b6725cdb35990f4/channel-8-data.jpg",Channel 8|HD
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg",ZEECINEMA
@@ -27,8 +27,8 @@ https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,9x JALWA
 http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
-#EXTINF:-1 ,SONY MAX
-https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_1500/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png",America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1,FOX SPORTS
 http://45.58.62.92:8080
@@ -38,7 +38,7 @@ http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/320px-Olympic_Channel_logo.png",OLYMPIC CHANNEL
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1,JemberTV
+#EXTINF:-1,Jember 1TV
 http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
 #EXTINF:-1,Zing
 http://pockettv.xyz/api/zee.m3u8?c=zing
@@ -232,36 +232,34 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?e
 http://122.129.115.21:1935/edgedol/_definst_/tao106/playlist.m3u8
 #EXTINF:0 tvg-id="E.uk" group-title="emy_|ENTERTAINMENT",E! Entertainment
 http://210.210.155.35/uq2663/h/h10/01.m3u8
-#EXTINF:0 tvg-id="ext" group-title="",ZEECAFE
-http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 #EXTINF:-1 tvg-id="StarWorld.sa" tvg-logo="https://i.imgur.com/p3oLjch.jpg" group-title="emy_|ENTERTAINMENT",Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/200px-Mayapada_TV.png" group-title="emy_|ENTERTAINMENT",MyTV
 http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="",TVIKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="",HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:0 tvg-id="Redetv.br" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/LOGO_REDETV%21.png" group-title="",RedeTV!
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="",Multimedios CDMX
 http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8
-#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="",HITS
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:0 tvg-id="Diva.svn" group-title="",Diva
 http://45.126.83.51:443/uq2663/h/h11/01.m3u8
-#EXTINF:0 tvg-id="" group-title="",S-GEM
-http://210.210.155.35/session/9e3c6d0c-8b95-11e8-98cf-b82a72d63267/uq2663/h/h19/index.m3u8
+#EXTINF:0 tvg-id="tv5monde" group-title="emy_|ENTERTAINMENT",TV5 Monde
+http://rr2.dens.tv/s/s24/index2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="",K+
 http://210.210.155.35/uq2663/h/h08/index1.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="" group-title="emy_|ENTERTAINMENT",TLC 
 http://80.80.160.168/live/2/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="",TVN KR
+#EXTINF:0 tvg-id="ext" group-title="",TVN
 http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X5v2LSl.jpg?1" group-title="emy_|FILM",J'GO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?emytv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="emy_|FILM",&Flix
-http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="emy_|FILM",K-DDRAMA
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="http://bit.ly/dolahomehbo" group-title="emy_|FILM",A Home Of HBO
 http://92.43.140.249/s64/04.m3u8
 #EXTINF:0 tvg-id="HBOHD.mx" tvg-logo="https://www.satlogo.com/hires/hh/hbo_adria.png" group-title="emy_|FILM",HBO
@@ -295,7 +293,7 @@ http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/320px-Setanta-logo.jpg" group-title="emyDOLTV |OLAHRAGA",SETANTA SPORTS
 http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:0 tvg-logo="https://www.satlogo.com/logo/tv/ff/fight_sports_us.png" group-title="emyDOLTV |OLAHRAGA",FIGHT SPORTS
-http://45.126.83.51/uq2663/h/h05/index.m3u8?emyTV.m3u8
+http://210.210.155.35:80/session/d7fa003a-65bb-11e9-9057-c81f66f89318/uq2663/h/h05/01.m3u88?emyTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="emyDOLTV |OLAHRAGA",NBA TV
 http://23.237.22.82:8086/udp/127.0.0.1:56052
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="emyDOLTV |OLAHRAGA",ALLSPORT
@@ -304,7 +302,7 @@ http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
 #EXTINF:-1 tvg-id="ext" group-title="emyDOLTV |OLAHRAGA",DSports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:0 tvg-id="https://upload.wikimedia.org/wikipedia/it/archive/d/db/20110802180608%21Supertennis_logo.png" group-title="emyDOLTV |OLAHRAGA",SUPER TENIS
+#EXTINF:0 tvg-id="https://upload.wikimedia.org/wikipedia/it/archive/d/db/20110802180608%21Supertennis_logo.png" group-title="emyDOLTV |OLAHRAGA",SUPER TENNIS
 https://1.ip2stream.icu/live/supertennis/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="emyDOLTV |OLAHRAGA",ESPN
 http://185.246.209.109:8080/ESPN/index.m3u8
@@ -510,3 +508,17 @@ http://220.158.149.14:9999/live/TV00000000000000000040@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/3/0/csm_11-400_import_48bedfe9f7.png" group-title="emyDOLTV |.THAICOM & APSTAR6",CTN
 http://220.158.149.14:9999/live/TV00000000000000000039@HHZT;LIVE
 
+#EXTINF:-1 group-title="emyDOLTV |VideoOnDemen",[VOD] Mahsa & Beruang 
+https://cdn0-a.production.vidio.static6.com/uploads/264240/1-youtube-635e-b1200.mp4.m3u8
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="emyDOLTV |VideoOnDemen",[VOD] MUNAFIK
+http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/1g4s767FX6TZrCfyUe0X24UZHwb.jpg" group-title="emyDOLTV |VideoOnDemen",[VOD] Pengabdi Setan (2017)
+https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/dwmQ9FyTbgKd62HVzdg34ep5roM.jpg" group-title="emyDOLTV |VideoOnDemen",[VOD] Danur (2017)
+https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="emyDOLTV |VideoOnDemen",[VOD] AQUAMAN 2018
+http://cdn0-a.production.vidio.static6.com/uploads/1573867/ets-cahgalon-820a-b900.mp4.m3u8
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="emyDOLTV |VideoOnDemen",[VOD] VENOM 2018
+http://cdn0-a.production.vidio.static6.com/uploads/1528359/ets-sehnom-2877-b900.mp4.m3u8
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="emyDOLTV |VideoOnDemen",[VOD] BUMBLEE 2018
+http://cdn0-a.production.vidio.static6.com/uploads/1567393/ets-bumb33-6048-b900.mp4.m3u8
