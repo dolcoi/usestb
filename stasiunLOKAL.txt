@@ -49,7 +49,7 @@ http://203.153.218.26:9981/stream/channelid/1720680830?ticket=2FC47E8010DAF08893
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6e/Rcti_%282%29.png/320px-Rcti_%282%29.png" group-title="iTV.NASIONAL",RCTI
-https://edge.okezone.com/live/rctioke.m3u8
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="iTV.NASIONAL",GTV
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -57,14 +57,14 @@ http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/100px-MNCTV_logo_2015.svg.png" group-title="iTV.NASIONAL",MNCTV
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/100px-INews.png" group-title="iTvD.BERITA,Inews
-http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/100px-INews.png" group-title="iTvD.BERITA,iNEWS
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/100px-SCTV_Logo.svg.png" group-title="iTV.NASIONAL",SCTV
-http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35:80/session/5d67868a-6381-11e9-bf37-c81f66f89318/qwr9ew/s/s103/01.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/9/95/20140331033248%21INDOSIAR_Logo_2.png" group-title="iTV.NASIONAL",Indosiar
-http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/9/95/20140331033248%21INDOSIAR_Logo_2.png" group-title="iTV.NASIONAL",INDOSIAR
+http://210.210.155.35:80/session/4bd9000a-65bc-11e9-9057-c81f66f89318/qwr9ew/s/s04/02.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/Liga_1_Shopee.png/200px-Liga_1_Shopee.png" group-title="emyDOLTV |OLAHRAGA",LIGA SHOOPEE
 http://203.153.218.26:9981/stream/channelid/1508492680?ticket=5333A6234C818D2D61D5FDB0A896D14C05336BCA&profile=pass
@@ -73,7 +73,8 @@ http://203.153.218.26:9981/stream/channelid/1508492680?ticket=5333A6234C818D2D61
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5d/TvOne_logo_%282008%29.svg/320px-TvOne_logo_%282008%29.svg.png" group-title="iTV.NASIONAL",TVONE
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+http://210.210.155.35:80/session/0b808a8c-6c0b-11e9-88f0-c81f66f89318/qwr9ew/s/s105/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" group-title="iTV.NASIONAL",MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
@@ -97,9 +98,6 @@ http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=0
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Net_TV_nepal.jpg" group-title="iTV.NASIONAL",NET.
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="iTV.NASIONAL",NET.HD
-http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="iTV.NASIONAL",THE INDONESIA CHANNEL
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
