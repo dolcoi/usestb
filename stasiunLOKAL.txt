@@ -45,8 +45,6 @@ http://pockettv.xyz/api/zee.m3u8?c=zing
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-dbhI3Wo2GyU/XR0_nZwT5sI/AAAAAAAAAK0/MK1VN6Xrq2YAN8XJssgUAguihtxrldwCwCLcBGAs/s1600/GramediaTV.png",Gramedia TV
 http://203.153.218.26:9981/stream/channelid/1483038845?ticket=39AD12280C9F70015D69E672A0F34CEE3EAF757E&profile=pass
-#EXTINF:0, tvg-logo="http://content.osn.com/logo/channel/cropped/NOW.png",Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/320px-Cartoon_Network_2004_logo.svg.png",IT| Cartoon Network
 https://1.ip2stream.icu/live/cartoon_network_hd/chunks.m3u8
 #EXTINF:0,NUSANTARA TV
@@ -73,7 +71,7 @@ http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="iTV.NASIONAL",Indosiar
 http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/Liga_1_Shopee.png/200px-Liga_1_Shopee.png" group-title="emy_|OLAHRAGA",Indosiar |LIGA SHOOPEE
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/Liga_1_Shopee.png/200px-Liga_1_Shopee.png" group-title="emyDOLTV |OLAHRAGA",Indosiar |LIGA SHOOPEE
 http://203.153.218.26:9981/stream/channelid/1508492680?ticket=5333A6234C818D2D61D5FDB0A896D14C05336BCA&profile=pass
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/320px-Antv_logo_%282017%29.svg.png" group-title="iTV.NASIONAL",ANTV
@@ -384,8 +382,6 @@ http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png"  group-title="emyDOLTV |MUSIK",TOP LATINO TV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://static1.bigtvhd.com/uploads/bigtvhd/channel/mix.png" group-title="emyDOLTV |MUSIK",MiX Music
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s212875q.png" group-title="emyDOLTV |MUSIK",Aghani
 https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
 
