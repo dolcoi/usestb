@@ -393,8 +393,8 @@ ttp://80.80.160.168/live/8/2500000/live.m3u8
 http://80.80.160.168/live/9/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1cZJebM.png" group-title="emyDOLTV |EXPLORER",Discovery Asia
 http://61.216.10.122:4046/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="emyDOLTV |EXPLORER",HISTORY (matek ch'e)
-rtmp://118.97.96.17:1935/discover/history_4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="emyDOLTV |EXPLORER",HISTORY
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A20883C796D7F6C137B2F95FF0C&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/303px-H2_TV_logo.svg.png" group-title="emyDOLTV |EXPLORER",HISTORY2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/216px-Investigation_Discovery_Logo_2018.svg.png" group-title="emyDOLTV |EXPLORER",INVESTIGATION DISCOVERY
