@@ -281,7 +281,7 @@ http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/320px-Setanta-logo.jpg" group-title="emyDOLTV |OLAHRAGA",SETANTA SPORTS
 http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:0 tvg-logo="https://www.satlogo.com/logo/tv/ff/fight_sports_us.png" group-title="emyDOLTV |OLAHRAGA",FIGHT SPORTS
-http://210.210.155.35:80/session/d7fa003a-65bb-11e9-9057-c81f66f89318/uq2663/h/h05/01.m3u88?emyTV.m3u8
+http://45.126.83.51/uq2663/h/h05/index.m3u8?doltvsd.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="emyDOLTV |OLAHRAGA",TVRI SPORTS HD
 http://203.153.218.26:9981/stream/channelid/1637650880?ticket=B5594F93E61A6DF8FDEB5D63457BE002FD4C72AA&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="emyDOLTV |OLAHRAGA",NBA TV
