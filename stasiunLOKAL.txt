@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",EMYosse100+CH !PTV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8?dolplaytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLTV EPL |Feed Live Sports
@@ -8,43 +7,37 @@ http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8?doltvsci.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLTV PILEM|EXTRA
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?gepenk.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Mediacorp_Suria_logo.jpg",SURIA
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:-1 tvg-logo="https://video.toggle.sg/image/5253176/16x9/947/533/b49cfbbdfadcac8183438a67da78f60a/Ef/channel-5.png",Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1 tvg-logo="https://liveatpc.com/wp-content/uploads/2018/08/Astro-HEllo-750x535.jpg",HELLO|HD
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-TV-Desa-150x67px.png",TVDESA
+http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sbctv.id/wp-content/uploads/2016/03/cropped-sbc-192x192.png",SBCTV
+http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/doljember1tv",JEMBER 1TV
+http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png",HELLO
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png",AXN
 http://210.210.155.35:80/session/e09e3200-6fe9-11e9-9c14-c81f66f89318/uq2663/h/h141/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.mediacorp.sg/blob/5896992/f95ae8547038eb5a8b6725cdb35990f4/channel-8-data.jpg",Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/kk/karaoke_channel_id.png",KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?doltv.m3u8
+#EXTINF:-1 tvg-logo="http://channels.roku.com/images/1b9df463971f4d10a66086531b00f365-hd.png",RedBull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,FOX SPORTS
+http://45.58.62.92:8080
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/850/055/000/p34ku3wz46HXMTLoA1d-o.png",MCOT FAMMILY
+http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w319792887_b2000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE CINEMA
 http://pockettv.xyz/api/zee.m3u8?c=cinemausa
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-eXXeJoXxaX0/WVZnemFlA-I/AAAAAAAAATs/mCC-_0Aia8Qym1dgy-cD_VqI66K6NNvvQCLcBGAs/s1600/dil.png",DILSE
-https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
-#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/5afbe569ee216f50f35857ae/5afc1d77ee216f5987589230_efd98bdb-233b-4afe-b6f5-d5cd93b44d82-p-800.png",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",9x JALWA
 http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1,FOX SPORTS
-http://45.58.62.92:8080
-#EXTINF:-1 tvg-logo"https://image.roku.com/developer_channels/prod/1e5c16c668836f73c21e59f559c28c2e210ff80cd21a45c582c3b64a9617f586.png",Insight
+#EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/insighttvuhd/assets/7c15b157-b50a-4547-877e-6a5ff7aa6bd1.png",Insight
 http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
-#EXTINF:-1,BMSTV
-http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/320px-Olympic_Channel_logo.png",OLYMPIC CHANNEL
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1,Jember 1TV
-http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-dbhI3Wo2GyU/XR0_nZwT5sI/AAAAAAAAAK0/MK1VN6Xrq2YAN8XJssgUAguihtxrldwCwCLcBGAs/s1600/GramediaTV.png",Gramedia TV
-http://203.153.218.26:9981/stream/channelid/1483038845?ticket=39AD12280C9F70015D69E672A0F34CEE3EAF757E&profile=pass
 #EXTINF:0 tvg-id="CartoonNetwork.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/320px-Cartoon_Network_2004_logo.svg.png",Cartoon Network
 http://eir2.pikaflik.co.uk:80/live.ts?channelId=92&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:0,NUSANTARA TV
-http://203.153.218.26:9981/stream/channelid/1720680830?ticket=2FC47E8010DAF08893E9BB83314E0DC495CC1551&profile=pass
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/11/Tvri_jadul.svg/314px-Tvri_jadul.svg.png" group-title="iTV.NASIONAL",TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
@@ -140,15 +133,13 @@ http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomai
 #EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/JTV.jpg" group-title="iTV.NASIONAL",JTV
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo-"http://sbctv.id/wp-content/uploads/2016/03/cropped-sbc-192x192.png" group-title="iTV.NASIONAL",SBCTV JATIM
-http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Arek-TV-logo-3D-90px.png" group-title="iTV.NASIONAL",AREK TV
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/17F4PQN/bbstv.png" group-title="iTV.NASIONAL",BBS TV
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://bit.ly/dolbmstv",BMSTV
+http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="iTV.NASIONAL",DAAI TV
 http://e1-hk-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
 
@@ -160,6 +151,11 @@ http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w1920962254.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="iTV.NASIONAL",TATV SOLO
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dbhI3Wo2GyU/XR0_nZwT5sI/AAAAAAAAAK0/MK1VN6Xrq2YAN8XJssgUAguihtxrldwCwCLcBGAs/s1600/GramediaTV.png" group-title="iTV.NASIONAL",Gramedia TV
+http://203.153.218.26:9981/stream/channelid/1483038845?ticket=39AD12280C9F70015D69E672A0F34CEE3EAF757E&profile=pass
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png" group-title="iTV.NASIONAL",NUSANTARA TV
+http://203.153.218.26:9981/stream/channelid/1720680830?ticket=2FC47E8010DAF08893E9BB83314E0DC495CC1551&profile=pass
 
 #EXTINF:0 tvg-id="ext" group-title="iTV.NASIONAL",BALI TV
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -209,8 +205,7 @@ http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Kitanesia-logo-01-90px.png" group-title="iTV.NASIONAL",KITANESIA
 http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-TV-Desa-150x67px.png" group-title="iTV.NASIONAL",TV DESA
-http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
+
 
 
 #EXTINF:0 tvg-logo="https://www.fixhd.tv/wp-content/uploads/2018/05/FIX_mini-logo200x113.png" group-title="emy_|ENTERTAINMENT",FiX
@@ -287,6 +282,8 @@ http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/
 http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:0 tvg-logo="https://www.satlogo.com/logo/tv/ff/fight_sports_us.png" group-title="emyDOLTV |OLAHRAGA",FIGHT SPORTS
 http://210.210.155.35:80/session/d7fa003a-65bb-11e9-9057-c81f66f89318/uq2663/h/h05/01.m3u88?emyTV.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="emyDOLTV |OLAHRAGA",TVRI SPORTS HD
+http://203.153.218.26:9981/stream/channelid/1637650880?ticket=B5594F93E61A6DF8FDEB5D63457BE002FD4C72AA&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="emyDOLTV |OLAHRAGA",NBA TV
 http://23.237.22.82:8086/udp/127.0.0.1:56052
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="emyDOLTV |OLAHRAGA",ALLSPORT
@@ -301,15 +298,11 @@ https://1.ip2stream.icu/live/supertennis/playlist.m3u8
 http://185.246.209.109:8080/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="emyDOLTV |OLAHRAGA",CDO
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/Liga_1_Shopee.png/200px-Liga_1_Shopee.png" group-title="emyDOLTV |OLAHRAGA",useeTV Sports |LIGA SHOOPEE
-http://id2.indostreamingtv.com/live/tv111/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="emyDOLTV |OLAHRAGA",SPORTONE
 http://203.153.218.26:9981/stream/channelid/896549830
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="emyDOLTV |OLAHRAGA",TVRI Sports HD
-http://203.153.218.26:9981/stream/channelid/1637650880?ticket=B5594F93E61A6DF8FDEB5D63457BE002FD4C72AA&profile=pass
 #EXTINF:0 tvg-logo="" group-title="emyDOLTV |OLAHRAGA",SportOne
 http://203.153.218.26:9981/stream/channelid/896549830?ticket=F354D6F4366C11A620137381F8150ED0359351EB&profile=pass
-#EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org" tvg-logo="https://i.imgur.com/xHeAQ2S.jpg?1" group-title="emyDOLTV |OLAHRAGA",WWE Network
+#EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org" tvg-logo="https://i.imgur.com/xHeAQ2S.jpg?1" group-title="emyDOLTV |OLAHRAGA",WWE Network (offline)
 http://primemediatv.co.uk:80/Mp5JGVEwCP/XJq2eu94Wd/134
 
 
@@ -361,12 +354,12 @@ http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="emyDOLTV |MUSIK",MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-eXXeJoXxaX0/WVZnemFlA-I/AAAAAAAAATs/mCC-_0Aia8Qym1dgy-cD_VqI66K6NNvvQCLcBGAs/s1600/dil.png",DILSE
+https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Zing-150x86px.png" group-title="emyDOLTV |MUSIK",POP MUSIK
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.firstmedia.com/files/packages/channel_dangdutz.jpg" group-title="emyDOLTV |MUSIK",DANGDUTZ
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.firstmedia.com/files/packages/channel-Karaoke-30.jpg" group-title="emyDOLTV |MUSIK",KAROKE CHANNEL
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?doltv.m3u8
 #EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/NOW.png" group-title="emyDOLTV |MUSIK",MUSIK NOW
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/200px-Radio_m2o_-_Logo_2019.svg.png" group-title="emyDOLTV |MUSIK",RADIOM2O TV
@@ -474,11 +467,8 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="emyDOLTV |WorldTV",Discover Malta
 http://www.evoiptv.com/hlsdiscover/hlsdiscover.m3u8
 
-
 #EXTINF:-1 group-title="emyDOLTV |.THAICOM & APSTAR6",THAI PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 group-title="emyDOLTV |.THAICOM & APSTAR6",MCOT FAMMILY
-http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w319792887_b2000000.m3u8
 #EXTINF:-1 group-title="emyDOLTV |.THAICOM & APSTAR6",Workpoint
 http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
 #EXTINF:-1 tvg-logo="http://advancedigitaltech.com/wp-content/uploads/2016/10/True4u-New.png" group-title="emyDOLTV |.THAICOM & APSTAR6",True4U
