@@ -5,7 +5,8 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8?dolplaytv.m3u
 http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS474/24170c558237255a1c87bb9553c73fb2/j7tfrf3/index.m3u8?doltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLTV |Cineplex24x7
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8?doltvsci.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLTV PILEM|EXTRA
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLcoi Ch|TEST
+http://universeiptv.com:8000/ayman7/ayman7/31904
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?gepenk.m3u8
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/kk/karaoke_channel_id.png",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?doltv.m3u8
@@ -36,7 +37,8 @@ http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/320px-Olympic_Channel_logo.png",OLYMPIC CHANNEL
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 #EXTINF:0 tvg-id="CartoonNetwork.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/320px-Cartoon_Network_2004_logo.svg.png",Cartoon Network
-http://eir2.pikaflik.co.uk:80/live.ts?channelId=92&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+http://universeiptv.com:8000/ayman7/ayman7/38599
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/11/Tvri_jadul.svg/314px-Tvri_jadul.svg.png" group-title="iTV.NASIONAL",TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
