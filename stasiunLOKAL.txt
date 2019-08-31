@@ -6,7 +6,7 @@ http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLTV |Cineplex24x7
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8?doltvsci.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLcoi Ch|DTEST
-http://universeiptv.com:8000/ayman7/ayman7/7897
+http://universeiptv.com:8000/ayman7/ayman7/31904
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?gepenk.m3u8
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/kk/karaoke_channel_id.png",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?doltv.m3u8
@@ -251,6 +251,12 @@ http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?emytv.m3u8
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="emy_|FILM",K-DDRAMA
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="",ZEE BIOSKOP
+http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
+#EXTINF:-1 group-title="",B4U Movies
+http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="",Thrill
+http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="http://bit.ly/dolahomehbo" group-title="emy_|FILM",A Home Of HBO
 http://92.43.140.249/s64/04.m3u8
 #EXTINF:0 tvg-id="HBOHD.mx" tvg-logo="https://www.satlogo.com/hires/hh/hbo_adria.png" group-title="emy_|FILM",HBO
@@ -262,14 +268,10 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 #EXTINF:-1 tvg-id="StarMovies.sa" tvg-logo="https://i.imgur.com/32rrn3W.jpg?1" group-title="emy_|FILM",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Macau Lotus TV |澳门莲花卫视|
+rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
 #EXTINF:0 tvg-id="ext" tvg-logo"https://www.satlogo.com/hires/ww/wow_cinema_in.png" group-title="emy_|FILM",WOW CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239733
-#EXTINF:-1 group-title="",B4U Movies
-http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="",ZEE BIOSKOP
-http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="",Thrill
-http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.21cineplex.com/images/bioskop.png" group-title="",BIOSKOP EMY_01
 http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.21cineplex.com/images/bioskop.png" group-title="",BIOSKOP EMY_02
@@ -281,6 +283,8 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-SF--WlsZW-s/XIWrQuZ0AUI/AAAAAAAAndo/SmJwjLdjPTEFj5oAKC3bpPS0jaJCy3UWgCLcBGAs/s1600/super-soccer-tv-channel-logo.png" group-title="emyDOLTV |OLAHRAGA",SOCCER TV
 http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="emyDOLTV |OLAHRAGA",Fight Time (uFc)
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/320px-Setanta-logo.jpg" group-title="emyDOLTV |OLAHRAGA",SETANTA SPORTS
 http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:0 tvg-logo="https://www.satlogo.com/logo/tv/ff/fight_sports_us.png" group-title="emyDOLTV |OLAHRAGA",FIGHT SPORTS
@@ -299,14 +303,11 @@ https://1.ip2stream.icu/live/supertennis/playlist.m3u8
 http://185.246.209.109:8080/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="emyDOLTV |OLAHRAGA",CDO
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="emyDOLTV |OLAHRAGA",SPORTONE
-http://203.153.218.26:9981/stream/channelid/896549830
-#EXTINF:0 tvg-logo="" group-title="emyDOLTV |OLAHRAGA",SportOne
-http://203.153.218.26:9981/stream/channelid/896549830?ticket=F354D6F4366C11A620137381F8150ED0359351EB&profile=pass
 #EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org" tvg-logo="https://i.imgur.com/xHeAQ2S.jpg?1" group-title="emyDOLTV |OLAHRAGA",WWE Network (offline)
 http://primemediatv.co.uk:80/Mp5JGVEwCP/XJq2eu94Wd/134
 
-
+EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/320px-Cartoon_Network_2004_logo.svg.png" group-title="emyDOLTV |Anak Anak",Cartoon Network كرتون
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8?doltv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="emyDOLTV |Anak Anak",BOOMERANG
 http://185.246.209.109:8080/BOOMERANG/index.m3u8
 #EXTINF:0 logo="http://tv.dekagon.id/logo/disney_junior_us.png" tvg-id="276cc1833c28d82ea5411b15b713f971"" group-title="emyDOLTV |Anak Anak",DISNEY JUNIOR
