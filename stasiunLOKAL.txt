@@ -8,8 +8,6 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLcoi Ch|Temp|DTEST
 http://185.246.209.109:8080/TSN2/tracks-v1a1/index.m3u8?gepenk.m3u8
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?gepenk.m3u8
-#EXTINF:0 tvg-id="ext",(anyar!) MoreMax
-http://185.246.209.109:8080/MOREMAX/tracks-v1a1/index.m3u8?gepenk.m3u8
 #EXTINF:0 tvg-id="ext",(anyar!) MAVTV
 http://185.246.209.109:8080/MAV_TV/tracks-v1a1/index.m3u8?gepenk.m3u8
 #EXTINF:0 tvg-id="ext",(anyar!) KLiK
