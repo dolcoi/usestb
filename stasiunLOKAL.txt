@@ -166,9 +166,11 @@ http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 #EXTINF:0 tvg-id="AlJazeera.nws" group-title="emyDOLTV WartaBerita & Bisnis",Aljazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_mu_id.png" group-title="emyDOLTV RELIGI|коллекция",TVMU
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_mu_id.png" group-title="emyDOLTV RELIGI|коллекция",TvMU
 rtmp://118.97.183.222:1935/discover/muhammadiyahtv
-#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Kitanesia-logo-01-90px.png" group-title="emyDOL StasiunTV|коллекция",KITANESIA
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="emyDOL StasiunTV|коллекция",THE INDONESIA CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Kitanesia-logo-01-90px.png" group-title="emyDOL StasiunTV|коллекция",Kitanesia
 http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/800px-Arirang_logo.png" group-title="emyDOLTV WartaBerita & Bisnis",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -177,7 +179,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
 #EXTINF:0 tvg-id="SkyNews.uk" group-title="emyDOLTV WartaBerita & Bisnis",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Arek-TV-logo-3D-90px.png" group-title="emyDOL StasiunTV|коллекция",AREKTV
+#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Arek-TV-logo-3D-90px.png" group-title="emyDOL StasiunTV|коллекция",ArekTV
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-TV-Desa-150x67px.png" group-title="emyDOL StasiunTV|коллекция",TVDESA
 http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
@@ -185,8 +187,6 @@ http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-DMI-Channel-01-Edit-150x66px.jpg" group-title="emyDOLTV RELIGI|коллекция",DMI TV
 http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="emyDOL StasiunTV|коллекция",THE INDONESIA CHANNEL
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/elshinta_tv_id.png" group-title="emyDOL StasiunTV|коллекция",Elshinta TV
 http://rr2.dens.tv/s/s10/index2.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://listimg.pinclipart.com/picdir/s/123-1239994_fanatik-info-tv-adalah-channel-favorit-dari-topas.png" group-title="emyDOL StasiunTV|коллекция",InfoTV
