@@ -8,10 +8,10 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLcoi Ch|DTEST
 http://universeiptv.com:8000/ayman7/ayman7/31904
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?gepenk.m3u8
-#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/kk/karaoke_channel_id.png",KARAOKE CHANNEL
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/kk/karaoke_channel_id.png",Karaoke Indo Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?doltv.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-TV-Desa-150x67px.png",TVDESA
-http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
+#EXTINF:0 tvg-id="ext",Karaoke World Channel
+http://www.djing.com/tv/karaoke.m3u8?doltv.m3u8?doltv.m3u8
 #EXTINF:-1 tvg-logo="http://sbctv.id/wp-content/uploads/2016/03/cropped-sbc-192x192.png",SBCTV
 http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/doljember1tv",JEMBER 1TV
@@ -164,7 +164,8 @@ http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=0
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/200px-TVKU-BChannel.png" group-title="iTV.NASIONAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-TV-Desa-150x67px.png",TVDESA
+http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="iTV.NASIONAL",PONTV
 http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="",KAWANUA TV
