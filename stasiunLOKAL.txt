@@ -16,8 +16,7 @@ http://185.246.209.109:8080/MAV_TV/tracks-v1a1/index.m3u8?gepenk.m3u8
 http://92.62.234.201:11234
 #EXTINF:0 tvg-id="ext",(anyar!) Sunburn TV
 https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8?gepenk.m3u8
-#EXTINF:0 tvg-id="ext",(anyar!) Adv Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8?gepenk.m3u8
+EXTINF:0 tvg-id="ext",(anyar!) Adv Sports Network https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8?gepenk.m3u8
 #EXTINF:-1 tvg-logo="http://sbctv.id/wp-content/uploads/2016/03/cropped-sbc-192x192.png",SBCTV
 http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/doljember1tv",JEMBER 1TV
