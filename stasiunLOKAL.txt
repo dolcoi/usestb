@@ -371,14 +371,13 @@ https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
 https://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/16.jpg" group-title="emyDOLTV |EXPLORER",CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="emyDOLTV |EXPLORER",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:0 tvg-id="SmithsonianChannel.uk" group-title="emyDOLTV |EXPLORER,Smithsonian Channel
 http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="emyDOLTV |EXPLORER",Knowledge Kids
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/200px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="emyDOLTV |EXPLORER",ANIMAL PLANET
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/200px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="emyDOLTV |EXPLORER",MY| ANIMAL PLANET (test|temp)
 http://universeiptv.com:8000/ayman7/ayman7/31903
+http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/320px-Natgeologo.svg.png" group-title="emyDOLTV |EXPLORER",NAT GEO
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=6125EF8C23E1DC1183AD45B22AB25E348AB2CB97&profile=pass
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8
