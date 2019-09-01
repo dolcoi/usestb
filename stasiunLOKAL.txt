@@ -16,7 +16,7 @@ http://92.62.234.201:11234
 https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8?gepenk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",(anyar!) Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8?gepenk.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png",Funniest Videos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png",Funniest Home Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/84/PPTV_HD.png/240px-PPTV_HD.png",PPTVHD 36 (Fav Ch Sports)
 http://livesport2018.dyndns.tv:1935/trans/pptv-1080p/chunklist.m3u8?doltv8.m3u8
