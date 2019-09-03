@@ -6,7 +6,6 @@ http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOL Cineplex24x7
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8?doltvsci.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLcoi Ch|Temp|DTEST
-http://125.227.210.37:8886/VideoInput/play.ts
 http://130.185.150.79:1935/trunk/SONY-ESPN/playlist.m3u8?dolsespn8.m3u8
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?gepenk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",(anyar!) MAVTV
@@ -249,8 +248,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?sd=10&rebase=on
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:0 tvg-logo="https://www.fixhd.tv/wp-content/uploads/2018/05/FIX_mini-logo200x113.png" group-title="emyDOLTV HIBURAN|коллекция",FiX
 http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
-#EXTINF:0 tvg-id="Diva.svn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Diva_logo.svg/500px-Diva_logo.svg.png" group-title="emyDOLTV HIBURAN|коллекция",DiVa
-http://45.126.83.51:443/uq2663/h/h11/01.m3u8
+#EXTINF:-1 tvg-id="food-network-us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/246px-Food_Network_New_Logo.png" group-title="emyDOLTV HIBURAN|коллекция",Food Network
+https://live2.hoolatv.com/live/foodnetwork_hi/chunks.m3u8?doltv7.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/320px-FOX_wordmark-orange.svg.png" group-title="emyDOLTV HIBURAN|коллекция",FOX
 http://122.129.115.21:1935/edgedol/_definst_/tao106/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/200px-Mayapada_TV.png" group-title="emyDOLTV HIBURAN|коллекция",MyTV
@@ -264,7 +263,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 #EXTINF:0 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="emyDOLTV HIBURAN|коллекция",Foodie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?emytv.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/320px-Logo_tvN.svg.png" group-title="emyDOLTV HIBURAN|коллекция",TvN
-http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
+http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-SF--WlsZW-s/XIWrQuZ0AUI/AAAAAAAAndo/SmJwjLdjPTEFj5oAKC3bpPS0jaJCy3UWgCLcBGAs/s1600/super-soccer-tv-channel-logo.png" group-title="emyDOLTV |OlahRaga",SOCCER TV,http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/320px-Olympic_Channel_logo.png" group-title="emyDOLTV OlahRaga|коллекция",Olympic Channel
