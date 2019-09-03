@@ -6,7 +6,7 @@ http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOL Cineplex24x7
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8?doltvsci.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLcoi Ch|Temp|DTEST
-http://ott-cdn.ucom.am/s41/04.m3u8?dOLTvbOlA.m3u8
+http://77.103.0.227:8080/4.ts
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?gepenk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",MAVTV
 http://185.246.209.109:8080/MAV_TV/tracks-v1a1/index.m3u8?gepenk.m3u8
@@ -244,7 +244,7 @@ http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" group-title="emyDOLTV HIBURAN|коллекция",Astro Hello
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
-#EXTINF:-1 tvg-id="food-network-us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/246px-Food_Network_New_Logo.png" group-title="emyDOLTV HIBURAN|коллекция",Food Network
+#EXTINF:-1 tvg-id="food-network-us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/246px-Food_Network_New_Logo.png" group-title="emyDOLTV HIBURAN|коллекция",FOOD NETWORK
 https://live2.hoolatv.com/live/foodnetwork_hi/chunks.m3u8?doltv7.m3u8
 #EXTINF:0 tvg-logo="https://www.fixhd.tv/wp-content/uploads/2018/05/FIX_mini-logo200x113.png" group-title="emyDOLTV HIBURAN|коллекция",FiX
 http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
@@ -258,70 +258,76 @@ http://210.210.155.35/uq2663/h/h08/index1.m3u8
 http://210.210.155.35/uq2663/h/h10/01.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://oona.tv/assets/img/channels/homeandliving.png" group-title="emyDOLTV HIBURAN|коллекция",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="emyDOLTV HIBURAN|коллекция",Foodie
+#EXTINF:0 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="emyDOLTV HIBURAN|коллекция",FOODIE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?emytv.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/320px-Logo_tvN.svg.png" group-title="emyDOLTV HIBURAN|коллекция",TvN
 http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-SF--WlsZW-s/XIWrQuZ0AUI/AAAAAAAAndo/SmJwjLdjPTEFj5oAKC3bpPS0jaJCy3UWgCLcBGAs/s1600/super-soccer-tv-channel-logo.png" group-title="emyDOLTV |OlahRaga",SOCCER TV,http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/320px-Olympic_Channel_logo.png" group-title="emyDOLTV OlahRaga|коллекция",Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?dolsports.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="emyDOLTV OlahRaga|коллекция",AllSports
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?dolsports.m3u8
-#EXTINF:0 tvg-id="Esport3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/320px-Esport3.svg.png" group-title="emyDOLTV OlahRaga|коллекция",ESport3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/chunklist_b1296000_DVR.m3u8?dolsports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/320px-Setanta-logo.jpg" group-title="emyDOLTV OlahRaga|коллекция",Setanta
-http://ott-cdn.ucom.am/s81/03.m3u8?dolsports.m3u8
-#EXTINF:-1 tvg-logo="https://www.wataan.com/uploads/13122017-022525PM.png" group-title="emyDOLTV OlahRaga|коллекция",1AdSports
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?dolsports.m3u8
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/update_june_mncsport.jpg" group-title="emyDOLTV OlahRaga|коллекция,MNCSports
-https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/Liga_1_Shopee.png/200px-Liga_1_Shopee.png" group-title="emyDOLTV OlahRaga|коллекция",LIGA SHOOPEE
-http://203.153.218.26:9981/stream/channelid/1508492680?ticket=5333A6234C818D2D61D5FDB0A896D14C05336BCA&profile=pass
-#EXTINF:0 tvg-id="https://upload.wikimedia.org/wikipedia/it/archive/d/db/20110802180608%21Supertennis_logo.png" group-title="emyDOLTV OlahRaga|коллекция",Super Tenis
-https://1.ip2stream.icu/live/supertennis/playlist.m3u8?dolsports.m3u8
-#EXTINF:0 tvg-id="FightBox.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="emyDOLTV OlahRaga|коллекция",FightBox
-http://ott-cdn.ucom.am/s86/index.m3u8?doltvfight.m3u8?dolsports.m3u8
-#EXTINF:0 tvg-logo="https://www.satlogo.com/logo/tv/ff/fight_sports_us.png" group-title="emyDOLTV OlahRaga|коллекция",Fight
-http://45.126.83.51/uq2663/h/h05/index.m3u8?doltvsd.m3u8?doltvfights.m3u8?dolsports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="emyDOLTV OlahRaga|коллекция",NBATV
-http://23.237.22.82:8086/udp/127.0.0.1:56052
-#EXTINF:-1 tvg-id="ext" group-title="emyDOLTV OlahRaga|коллекция",DSports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="emyDOLTV OlahRaga|коллекция",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?emytv?doltv.m3u8?dolsports.m3u8
-#EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org" tvg-logo="https://i.imgur.com/xHeAQ2S.jpg?1" group-title="emyDOLTV OlahRaga|коллекция,WWE Network (offline)
-http://primemediatv.co.uk:80/Mp5JGVEwCP/XJq2eu94Wd/134
 
-#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="emyDOLTV |Anak Anak",Aniplus
-http://45.126.83.51/dr9445/h/h02/01.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="emyDOLTV |Anak Anak",Egg Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-SF--WlsZW-s/XIWrQuZ0AUI/AAAAAAAAndo/SmJwjLdjPTEFj5oAKC3bpPS0jaJCy3UWgCLcBGAs/s1600/super-soccer-tv-channel-logo.png" group-title="emyDOLTV |OlahRaga",SOCCER TV,http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="emyDOLTV OlahRaga|коллекция",1|ADSPORTS
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?dolsports.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="emyDOLTV OlahRaga|коллекция",ALLSPORTS
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?dolsports.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/CBC_Sport%2C_logo%2C_2015.png" group-title="emyDOLTV OlahRaga|коллекция",CBC SPORTS
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8?d0LTvco.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png" group-title="emyDOLTV OlahRaga|коллекция",DSPORTS
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?d0LTvuS.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg" group-title="emyDOLTV OlahRaga|коллекция",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8?d0LTviN.m3u8
+#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/320px-Esport3.svg.png" group-title="emyDOLTV OlahRaga|коллекция",ESPORTS
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/chunklist_b1296000_DVR.m3u8?dolsports.m3u8
+#EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/freesports.png" group-title="emyDOLTV OlahRaga|коллекция",FREE SPORTS
+https://live2.hoolatv.com/live/freesports_hi/chunks.m3u8?d0LTvco.m3u8
+#EXTINF:-1 tvg-id="FightBox.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="emyDOLTV OlahRaga|коллекция",FIGHT BOX
+http://ott-cdn.ucom.am/s86/index.m3u8?doltvfight.m3u8
+#EXTINF:-1 tvg-logo="https://image.jtbcgolf.joins.com/main/151231_h_top_logo.png" group-title="emyDOLTV OlahRaga|коллекция",JTBC GOLF
+http://122.129.115.21:1935/edgedol/_definst_/tao129/chunklist_w1957069897.m3u8?d0LTvco.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/Liga_1_Shopee.png/200px-Liga_1_Shopee.png" group-title="emyDOLTV OlahRaga|коллекция",LIGA SHOOPEE
+http://203.153.218.26:9981/stream/channelid/1508492680?ticket=5333A6234C818D2D61D5FDB0A896D14C05336BCA&profile=pass
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/update_june_mncsport.jpg" group-title="emyDOLTV OlahRaga|коллекция,MNC SPORTS
+https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="emyDOLTV OlahRaga|коллекция",NBA TV
+http://23.237.22.82:8086/udp/127.0.0.1:56052
+#EXTINF:-1 tvg-logo="http://bit.do/d0LTvol" group-title="emyDOLTV OlahRaga|коллекция",OLYMPIC CHANNEL
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?dolsports.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/RacingCom.au.png" group-title="emyDOLTV OlahRaga|коллекция",RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?d0LTv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/320px-Setanta-logo.jpg" group-title="emyDOLTV OlahRaga|коллекция",SETANTA
+http://ott-cdn.ucom.am/s81/03.m3u8?dolsports.m3u8
+#EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org" tvg-logo="https://i.imgur.com/xHeAQ2S.jpg?1" group-title="emyDOLTV OlahRaga|коллекция,WWE Network
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="emyDOLTV |Anak Anak",Aniplus,http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yZdUHSW.jpg" group-title="emyDOLTV |Anak Anak",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="emyDOLTV |Anak Anak",BOOMERANG
+http://185.246.209.109:8080/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peach_poster_rodents.jpg/320px-Peach_poster_rodents.jpg",BigBuckBunny
+http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WnZaIlo.jpg" group-title="emyDOLTV |Anak Anak",DuckTV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8?doltv.m3u8
+#EXTINF:0 logo="http://tv.dekagon.id/logo/disney_junior_us.png" tvg-id="276cc1833c28d82ea5411b15b713f971"" group-title="emyDOLTV |Anak Anak",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://bit.do/d0LTvKD" group-title="emyDOLTV |Anak Anak",Knowledge Kids
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="emyDOLTV |Anak Anak",Egg Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/tva.onscreenasia.com/wp-content/uploads/archive/onscreenasia/miao_logo_c.jpg" group-title="emyDOLTV |Anak Anak",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UOBTLSz.jpg" group-title="emyDOLTV |Anak Anak",My Kids
 http://45.126.83.51/session/ed35b066-8776-11e9-8be0-b73f998c1fa0/x6bnqe/s/s113/index.m3u8
-#EXTINF:0 logo="http://tv.dekagon.id/logo/disney_junior_us.png" tvg-id="276cc1833c28d82ea5411b15b713f971"" group-title="emyDOLTV |Anak Anak",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="emyDOLTV |Anak Anak",BOOMERANG
-http://185.246.209.109:8080/BOOMERANG/index.m3u8
 #EXTINF:0 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="emyDOLTV |Anak Anak",EBS-KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/4N8SznXZ/toonmax.png"group-title="emyDOLTV |Anak Anak",Toonmax
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peach_poster_rodents.jpg/320px-Peach_poster_rodents.jpg",BigBuckBunny
-http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg/240px-Mbc_3_Logo_TV_Channels_Official.jpg" group-title="emyDOLTV |Anak Anak"",Channel 3HD
 http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/320px-Rai_Yoyo_-_Logo_2017.svg.png" group-title="emyDOLTV |Anak Anak",Rai Yoyo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1 tvg-id="disneychannel.id" tvg-logo="https://i.imgur.com/9EDVkDJ.png?1" group-title="emyDOLTV |Anak Anak",Disney Channel [VN]
-http://220.158.149.14:9999/live/TV00000000000000000113@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://www.biznetnetworks.com/assets/img/bizkids.png" group-title="emyDOLTV |Anak Anak",BisKids|HD,http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w761082683_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD0zekpVVldLVXZUbGtoUG03ZUMzU0FJMU13cnU0RVBKWVJDUEpIbXZ4Z1pLd0xJWmdkSGt1OXBXOWpud0xydDN2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/kk/karaoke_channel_id.png" group-title="emyDOLTV MUSIK|коллекция",Karaoke Indo Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?doltv.m3u8
@@ -359,6 +365,8 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
 #EXTINF:0 tvg-id="SmithsonianChannel.uk" group-title="emyDOLTV |EXPLORER,Smithsonian Channel
 http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1cZJebM.png" group-title="emyDOLTV |EXPLORER",Discovery Asia
+http://61.216.10.122:4046/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/320px-Natgeologo.svg.png" group-title="emyDOLTV |EXPLORER",NAT GEO
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=6125EF8C23E1DC1183AD45B22AB25E348AB2CB97&profile=pass
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8
@@ -368,8 +376,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/320px-New_NatGeo_People_logo.svg.png" group-title="emyDOLTV |EXPLORER",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="emyDOLTV |EXPLORER",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/200px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="emyDOLTV |EXPLORER",Animal Planet
 http://universeiptv.com:8000/ayman7/ayman7/31903
 http://80.80.160.168/live/1/live.m3u8
@@ -379,8 +385,6 @@ http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A2088
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="emyDOLTV |EXPLORER",DISCOVERY
 http://80.80.160.168/live/8/500000/live.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1cZJebM.png" group-title="emyDOLTV |EXPLORER",Discovery Asia
-http://61.216.10.122:4046/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/225px-Science_Channel_logo.svg.png" group-title="emyDOLTV |EXPLORER",DISCOVERY SCI
 http://80.80.160.168/live/9/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/216px-Investigation_Discovery_Logo_2018.svg.png" group-title="emyDOLTV |EXPLORER",ID
