@@ -8,13 +8,13 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLcoi Ch|Temp|DTEST
 http://130.185.150.79:1935/trunk/SONY-ESPN/playlist.m3u8?dolsespn8.m3u8
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?gepenk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",(anyar!) MAVTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",MAVTV
 http://185.246.209.109:8080/MAV_TV/tracks-v1a1/index.m3u8?gepenk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",(anyar!) KLiK
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",KLiK
 http://92.62.234.201:11234
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",(anyar!) Sunburn TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",Sunburn TV
 https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8?gepenk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",(anyar!) Xcorps TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8?gepenk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png",Funniest Home Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
@@ -24,7 +24,8 @@ http://livesport2018.dyndns.tv:1935/trans/pptv-1080p/chunklist.m3u8?doltv8.m3u8
 http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/doljember1tv",JEMBER 1TV
 http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png",AXN
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png",A X N
+http://universeiptv.com:8000/ayman7/ayman7/38603?id=d0LTvAxN7
 http://210.210.155.35:80/session/e09e3200-6fe9-11e9-9c14-c81f66f89318/uq2663/h/h141/02.m3u8?gepenk.m3u8
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/1b9df463971f4d10a66086531b00f365-hd.png",RedBull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
