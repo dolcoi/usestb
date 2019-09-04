@@ -25,7 +25,6 @@ http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/doljember1tv",JEMBER 1TV
 http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png",A X N
-http://universeiptv.com:8000/ayman7/ayman7/38603?id=d0LTvAxN7
 http://210.210.155.35:80/session/e09e3200-6fe9-11e9-9c14-c81f66f89318/uq2663/h/h141/02.m3u8?gepenk.m3u8
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/1b9df463971f4d10a66086531b00f365-hd.png",RedBull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -38,16 +37,18 @@ http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8?doltv.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2019/04/sinema-indonesia.jpg" group-title="emyDOL FILM|коллекция",Sinema Indonesia,http://rr3.dens.tv/s/s71/index2.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://images-channel.mivo.com/channel/image/89/img-live-jgo.jpg" group-title="emyDOL FILM|коллекция",J'GO First Movies
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?emytv.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="emyDOL FILM|коллекция",K Drama,http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.mmvapors.com/wp-content/uploads/2019/07/Thrill-logo.png" group-title="emyDOL FILM|коллекция",Thrill,http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://tvnet.id/content/uploads/2019/06/My-Cinema-Live-Streaming-HD-4-400x240.jpg" group-title="emyDOL FILM|коллекция",My Cinema,http://210.210.155.35/session/e71bbc06-d5b6-11e8-824e-c81f66f89318/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Bioskop.png" group-title="emyDOL FILM|коллекция",Zee Bioskop,http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="emyDOL FILM|коллекция",K Drama
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.mmvapors.com/wp-content/uploads/2019/07/Thrill-logo.png" group-title="emyDOL FILM|коллекция",Thrill
+http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://tvnet.id/content/uploads/2019/06/My-Cinema-Live-Streaming-HD-4-400x240.jpg" group-title="emyDOL FILM|коллекция",My Cinema
+http://210.210.155.35/session/e71bbc06-d5b6-11e8-824e-c81f66f89318/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Bioskop.png" group-title="emyDOL FILM|коллекция",Zee Bioskop
+http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/237px-Sony_MAX.svg.png" group-title="emyDOL FILM|коллекция",SONY MAX
 http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/index.m3u8?doltv.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://static-sesure.cdn.megafon.tv/images/Channel/31/51/d94c4040c236a5ca84ef29f449c92272a11a/logo_poster__web.png" group-title="emyDOL FILM|коллекция",A Home Of HBO
-http://92.43.140.249/s64/04.m3u8
-#EXTINF:0 tvg-id="HBO.hu" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20HD.png" group-title="emyDOL FILM|коллекция",HBO|HD 1080p
-http://tvport.it-tele.net:8000/46de61d870aa5aa225929b530b29fe43
+#EXTINF:0 tvg-id="ext" tvg-logo="https://static-sesure.cdn.megafon.tv/images/Channel/31/51/d94c4040c236a5ca84ef29f449c92272a11a/logo_poster__web.png" group-title="emyDOL FILM|коллекция",A Home Of HBO,http://92.43.140.249/s64/04.m3u8
+#EXTINF:0 tvg-id="HBO.hu" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20HD.png" group-title="emyDOL FILM|коллекция",HBO|HD 1080p,http://tvport.it-tele.net:8000/46de61d870aa5aa225929b530b29fe43
 #EXTINF:0 tvg-id="HBO.cn" tvg-logo="https://www.satlogo.com/hires/hh/hbo_adria.png" group-title="emyDOL FILM|коллекция",HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:0 tvg-id="HBO2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="emyDOL FILM|коллекция",HBO2
