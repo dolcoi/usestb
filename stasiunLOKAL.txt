@@ -100,7 +100,7 @@ http://202.80.222.170:80/000001/2/ch14041511564438196910/1003.m3u8?IASHttpSessio
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/100px-SCTV_Logo.svg.png" group-title="emyDOLTV Nasional|коллекция",SCTV
 http://202.80.222.178:80/000001/2/ch00000090990000001769/1003.m3u8?IASHttpSessionId=SLB2353220190811031422374760&ztecid=ch00000090990000001769&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001769&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjUvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/100px-SCTV_Logo.svg.png" group-title="emyDOLTV Nasional|коллекция",SCTV (backup)
-http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+http://id2.indostreamingtv.com/live/tv2/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/8o71OfO.png" group-title="emyDOLTV RELIGI|коллекция",TV9 NUSANTARA
 http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/Logo_Antv_2003-2006.svg/320px-Logo_Antv_2003-2006.svg.png" group-title="emyDOLTV Nasional|коллекция",ANTV
