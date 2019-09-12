@@ -8,8 +8,8 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLcoi ASTOR
 http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1096000.m3u8?gepenk.m3u8
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?gepenk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",Футбол 2|BolaSepak
-http://broadcasting.cdn.contentgm.com:8080/footbal_2/video.m3u8?token=8UjWeshNwq
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",[vod] DILAN 1990
+https://www.googleapis.com/drive/v3/files/1GAdPIuvG9D4xx3fKCXf4a1Jg7FmzQB3C?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",[vod] Keluarga Cemara 2019
 https://www.googleapis.com/drive/v3/files/1WGEdGmWd-DI3oYzjcPpyXiDX_OF2RLun?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",[vod] Yowes Ben 2 2019
@@ -55,7 +55,7 @@ http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:0 tvg-id="HBO2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="emyDOL FILM|коллекция",HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?emytv.m3u8
 #EXTINF:0 tvg-id="Hbofamily.br" tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="emyDOL FILM|коллекция",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&amp;profile=pass
 #EXTINF:0 tvg-id="StarMovies.in" tvg-logo="http://my-hd.tv/shared/img/channels/Star-Movies.gif" group-title="emyDOL FILM|коллекция",StarMovies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="ZeeCinema.uk" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Cinema.png" group-title="emyDOL FILM|коллекция",Zee Cinema
