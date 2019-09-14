@@ -373,16 +373,12 @@ http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
 http://61.216.10.122:4046/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/320px-Natgeologo.svg.png" group-title="emyDOLTV |EXPLORER",NAT GEO
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=6125EF8C23E1DC1183AD45B22AB25E348AB2CB97&profile=pass
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/320px-Nat_Geo_Wild_logo.png" group-title="emyDOLTV |EXPLORER",NAT GEO Wild
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=A1217AFD7D4BACB9F66B9B369E8BC5B02FB0CEE4&profile=pass
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/320px-New_NatGeo_People_logo.svg.png" group-title="emyDOLTV |EXPLORER",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/200px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="emyDOLTV |EXPLORER",Animal Planet
-http://universeiptv.com:8000/ayman7/ayman7/31903
-http://80.80.160.168/live/1/live.m3u8
+http://103.194.169.110/OiIsk2umaR/XM8zppGbNV/18636
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="emyDOLTV |EXPLORER",HISTORY
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A20883C796D7F6C137B2F95FF0C&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/303px-H2_TV_logo.svg.png" group-title="emyDOLTV |EXPLORER",HISTORY2
