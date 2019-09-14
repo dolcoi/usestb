@@ -114,14 +114,15 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="emyDOLTV Nasional|коллекция",Trans7
 http://202.80.222.175:80/000001/2/ch00000090990000001766/1003.m3u8?IASHttpSessionId=OTT2913201908110326301346783&ztecid=ch00000090990000001766&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001766&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMDgvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1144847896_b384000_sleng.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="emyDOLTV Nasional|коллекция",Trans|7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/9/95/20140331033248%21INDOSIAR_Logo_2.png" group-title="emyDOLTV Nasional|коллекция",INDOSIAR
 http://202.80.222.171:80/000001/2/ch00000090990000001771/1003.m3u8?IASHttpSessionId=SLB2353420190811032317367346&ztecid=ch00000090990000001771&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001771&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjIvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 http://210.210.155.35:80/session/4bd9000a-65bc-11e9-9057-c81f66f89318/qwr9ew/s/s04/02.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" group-title="emyDOLTV WartaBerita & Bisnis",MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5d/TvOne_logo_%282008%29.svg/320px-TvOne_logo_%282008%29.svg.png" group-title="emyDOLTV WartaBerita & Bisnis",TVONE
-http://rr2.dens.tv/s/s105/index.m3u8
+http://id1.indostreamingtv.com/live/tv444/index.m3u8?fbclid=IwAR3sGNiSBn6sRU_jzwhS3pFl6SDsd13Ta0Pk6CknNmTruLHA9zL6-argvGU
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/320px-KOMPAS_TV_%282017%29.png" group-title="emyDOLTV WartaBerita & Bisnis",Kompas TV
 http://202.80.222.166:80/000001/2/ch00000090990000001786/1003.m3u8?IASHttpSessionId=SLB2353520190811043200365804&ztecid=ch00000090990000001786&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001786&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTUvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/JTV.jpg" group-title="emyDOLTV Nasional|коллекция",JTV
