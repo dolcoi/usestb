@@ -7,19 +7,19 @@ http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8?doltvsci.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLcoi ASTOR
 http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1096000.m3u8?gepenk.m3u8
-http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?gepenk.m3u8
+#http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?gepenk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",[vod] DILAN 1990
 https://www.googleapis.com/drive/v3/files/1GAdPIuvG9D4xx3fKCXf4a1Jg7FmzQB3C?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",[vod] Keluarga Cemara 2019
 https://www.googleapis.com/drive/v3/files/1WGEdGmWd-DI3oYzjcPpyXiDX_OF2RLun?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",[vod] Yowes Ben 2 2019
 https://www.googleapis.com/drive/v3/files/1RAz-XqeDKLpjI8WRziZKTYen8RulaKWx?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",Blue Ant Entertainment
-http://45.126.83.51/session/1e415444-46e0-11e9-982e-88238f94e82c/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jtbc3sports.png/320px-Jtbc3sports.png",JTBC3 FOX SPORTS
+http://bit.ly/dolcoitvJTBC3F
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://www.skynetdth.com/images/channal_logo/Sports-HD.jpg",SKYN3T SPORTS
+http://bit.ly/dolcoitvSNS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png",Funniest Home Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/8/84/PPTV_HD.png/240px-PPTV_HD.png",PPTVHD 36 (Fav Ch Sports)
-http://livesport2018.dyndns.tv:1935/trans/pptv-1080p/chunklist.m3u8?doltv8.m3u8
 #EXTINF:-1 tvg-logo="http://sbctv.id/wp-content/uploads/2016/03/cropped-sbc-192x192.png",SBCTV
 http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/doljember1tv",JEMBER 1TV
@@ -49,9 +49,9 @@ http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/237px-Sony_MAX.svg.png" group-title="emyDOL FILM|коллекция",SONY MAX
 http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/index.m3u8?doltv.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://foxmoviesasia.com/images/fm.png" group-title="emyDOL FILM|коллекция",FOX MOVIES HD
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C08D27C9766035E330AEBA3&profile=pass
+http://bit.ly/dolcoitvF0XM
 #EXTINF:0 tvg-id="HBO.hu" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20HD.png" group-title="emyDOL FILM|коллекция",HBO
-http://38.91.107.64:8080/TV1944
+http://bit.ly/dolcoitvHBO
 #EXTINF:0 tvg-id="HBO.cn" tvg-logo="https://www.satlogo.com/hires/hh/hbo_adria.png" group-title="emyDOL FILM|коллекция",HBO ASIA
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:0 tvg-id="HBO2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="emyDOL FILM|коллекция",HBO2
@@ -59,7 +59,7 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?emytv.m3u8
 #EXTINF:0 tvg-id="Hbofamily.br" tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="emyDOL FILM|коллекция",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&amp;profile=pass
 #EXTINF:0 tvg-id="StarMovies.in" tvg-logo="http://my-hd.tv/shared/img/channels/Star-Movies.gif" group-title="emyDOL FILM|коллекция",STAR MOVIES
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
 #EXTINF:0 tvg-id="ZeeCinema.uk" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Cinema.png" group-title="emyDOL FILM|коллекция",Zee Cinema
 http://pockettv.xyz/api/zee.m3u8?c=cinemausa
 #EXTINF:0 tvg-id="B4UMovies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png" group-title="emyDOL FILM|коллекция",B4U Movies
