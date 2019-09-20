@@ -112,7 +112,6 @@ http://202.80.222.174:80/000001/2/ch00000090990000001792/1003.m3u8?IASHttpSessio
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="http://ayaat.com.sa/wp-content/uploads/2018/04/new-logo1.png" group-title="-=eDOLCOI=- StasiunTV",Ayaat TV (SA)
 http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
-
 #EXTINF:-1 tvg-logo="http://bit.ly/doljember1tv" group-title="-=eDOLCOI=- StasiunTV",JEMBER 1TV
 http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="-=eDOLCOI=- StasiunTV",Trans7
@@ -171,16 +170,18 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61fGOE9wmuL._SY355_.png" group-title="-=eDOLCOI=- StasiunTV",BEACH TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:-1 tvg-logo="http://www.diva-cosmetics.co.uk/img/diva-logo-1450966619.jpg" group-title="-=eDOLCOI=- StasiunTV",DIVA [id}
+#EXTINF:-1 tvg-logo="http://www.diva-cosmetics.co.uk/img/diva-logo-1450966619.jpg" group-title="-=eDOLCOI=- StasiunTV",DIVA [id]
 http://bit.ly/dolDIVAid
 #EXTINF:-1 tvg-id="E.uk" tvg-logo="http://www.vector-logo.net/logo_preview/ai/e/Entertainment_TV_logo.png" group-title="-=eDOLCOI=- StasiunTV",E! ENTERTAIMENT
 http://210.210.155.35/uq2663/h/h10/01.m3u8
 #EXTINF:0 tvg-logo="https://www.fixhd.tv/wp-content/uploads/2018/05/FIX_mini-logo200x113.png" group-title="-=eDOLCOI=- StasiunTV",FiX
 http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/320px-FOX_wordmark-orange.svg.png" group-title="-=eDOLCOI=- StasiunTV",FOX
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/320px-FOX_wordmark-orange.svg.png" group-title="-=eDOLCOI=- StasiunTV",FOX HD [id]
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=5E8466C220AEA92EFFBDC97384EBD4DAA04EFDF7&profile=pass
 #EXTINF:0 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="-=eDOLCOI=- StasiunTV",FOODIE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?emytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Food_Food_%28TV_Channel%29_Logo.jpg/300px-Food_Food_%28TV_Channel%29_Logo.jpg" group-title="-=eDOLCOI=- StasiunTV",FOOD FOOD
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="food-network-us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/246px-Food_Network_New_Logo.png" group-title="-=eDOLCOI=- StasiunTV",FOOD NETWORK
 https://live2.hoolatv.com/live/foodnetwork_hi/chunks.m3u8?doltv7.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://oona.tv/assets/img/channels/homeandliving.png" group-title="-=eDOLCOI=- StasiunTV",HOME&LIVING
@@ -193,8 +194,8 @@ http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BBC_World_Service_red.svg/318px-BBC_World_Service_red.svg.png" group-title="-=eDOLCOI=- StasiunTV",BBC World News
 http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="-=eDOLCOI=- StasiunTV",RTHK TV 32
-http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/Xing_kong_wei_shi.jpg" group-title="-=eDOLCOI=- StasiunTV",Xing Kong
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
 #EXTINF:0 tvg-id="AlJazeera.nws" group-title="-=eDOLCOI=- StasiunTV",Aljazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="-=eDOLCOI=- StasiunTV",ASTRO OKEY
@@ -205,8 +206,8 @@ rtmp://118.97.183.222:1935/discover/muhammadiyahtv
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Kitanesia-logo-01-90px.png" group-title="-=eDOLCOI=- StasiunTV",Kitanesia
 http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/800px-Arirang_logo.png" group-title="-=eDOLCOI=- StasiunTV",Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/800px-Arirang_logo.png" group-title="-=eDOLCOI=- StasiunTV",ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8?doltv.m3u8
 
 #EXTINF:0 tvg-id="SkyNews.uk" group-title="-=eDOLCOI=- StasiunTV",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
@@ -216,8 +217,8 @@ http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?doltv.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-TV-Desa-150x67px.png" group-title="-=eDOLCOI=- StasiunTV",TVDESA
 http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.inspira.tv/images/logo.png" group-title="-=eDOLCOI=- StasiunTV",Inspira TV
-http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5UrhzAT.png" group-title="-=eDOLCOI=- StasiunTV",FTV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 #EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-DMI-Channel-01-Edit-150x66px.jpg" group-title="-=eDOLCOI=- StasiunTV",DMI TV
 http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://listimg.pinclipart.com/picdir/s/123-1239994_fanatik-info-tv-adalah-channel-favorit-dari-topas.png" group-title="-=eDOLCOI=- StasiunTV",InfoTV
