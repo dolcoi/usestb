@@ -5,308 +5,305 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8?doltv.m3u8
 http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS474/24170c558237255a1c87bb9553c73fb2/j7tfrf3/index.m3u8?doltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOL Cineplex24x7
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8?doltvsci.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLcoi ASTOR
-http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1096000.m3u8?gepenk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLcoi OLAHRAGA|TEMP
 #http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?gepenk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",[vod] DILAN 1990
-https://www.googleapis.com/drive/v3/files/1GAdPIuvG9D4xx3fKCXf4a1Jg7FmzQB3C?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",[vod] Keluarga Cemara 2019
-https://www.googleapis.com/drive/v3/files/1WGEdGmWd-DI3oYzjcPpyXiDX_OF2RLun?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",[vod] Yowes Ben 2 2019
-https://www.googleapis.com/drive/v3/files/1RAz-XqeDKLpjI8WRziZKTYen8RulaKWx?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jtbc3sports.png/320px-Jtbc3sports.png",JTBC3 FOX SPORTS
-http://bit.ly/dolcoitvJTBC3F
-#EXTINF:-1 tvg-id="ext" tvg-logo="http://www.skynetdth.com/images/channal_logo/Sports-HD.jpg",SKYN3T SPORTS
 http://bit.ly/dolcoitvSNS
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jtbc3sports.png/320px-Jtbc3sports.png",JTBC3 FOXSPORTS
+http://bit.ly/dolcoitvJTBC3F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png",Funniest Home Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="http://sbctv.id/wp-content/uploads/2016/03/cropped-sbc-192x192.png",SBCTV
-http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/doljember1tv",JEMBER 1TV
-http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png",A X N
-http://210.210.155.35:80/session/e09e3200-6fe9-11e9-9c14-c81f66f89318/uq2663/h/h141/01.m3u8?gepenk.m3u8
-#EXTINF:-1 tvg-logo="http://channels.roku.com/images/1b9df463971f4d10a66086531b00f365-hd.png",RedBull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1,FOX SPORTS
-http://45.58.62.92:8080
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",9x JALWA
-http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
-#EXTINF:0 tvg-id="CartoonNetwork.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/320px-Cartoon_Network_2004_logo.svg.png",Cartoon Network
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8?doltv.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2019/04/sinema-indonesia.jpg" group-title="emyDOL FILM|коллекция",Sinema Indonesia
-http://rr3.dens.tv/s/s71/index2.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://images-channel.mivo.com/channel/image/89/img-live-jgo.jpg" group-title="emyDOL FILM|коллекция",J'GO First Movies
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?emytv.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="emyDOL FILM|коллекция",K Drama
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.mmvapors.com/wp-content/uploads/2019/07/Thrill-logo.png" group-title="emyDOL FILM|коллекция",Thrill
-http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://tvnet.id/content/uploads/2019/06/My-Cinema-Live-Streaming-HD-4-400x240.jpg" group-title="emyDOL FILM|коллекция",My Cinema
-http://210.210.155.35/session/e71bbc06-d5b6-11e8-824e-c81f66f89318/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Bioskop.png" group-title="emyDOL FILM|коллекция",Zee Bioskop
-http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/237px-Sony_MAX.svg.png" group-title="emyDOL FILM|коллекция",SONY MAX
-http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/index.m3u8?doltv.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://foxmoviesasia.com/images/fm.png" group-title="emyDOL FILM|коллекция",FOX MOVIES HD
-http://bit.ly/dolcoitvF0XM
-#EXTINF:0 tvg-id="HBO.hu" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20HD.png" group-title="emyDOL FILM|коллекция",HBO
-http://bit.ly/dolcoitvHBO
-#EXTINF:0 tvg-id="HBO.cn" tvg-logo="https://www.satlogo.com/hires/hh/hbo_adria.png" group-title="emyDOL FILM|коллекция",HBO ASIA
-http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:0 tvg-id="HBO2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="emyDOL FILM|коллекция",HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?emytv.m3u8
-#EXTINF:0 tvg-id="Hbofamily.br" tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="emyDOL FILM|коллекция",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&amp;profile=pass
-#EXTINF:0 tvg-id="StarMovies.in" tvg-logo="http://my-hd.tv/shared/img/channels/Star-Movies.gif" group-title="emyDOL FILM|коллекция",STAR MOVIES
-http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
-#EXTINF:0 tvg-id="ZeeCinema.uk" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Cinema.png" group-title="emyDOL FILM|коллекция",Zee Cinema
-http://pockettv.xyz/api/zee.m3u8?c=cinemausa
-#EXTINF:0 tvg-id="B4UMovies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png" group-title="emyDOL FILM|коллекция",B4U Movies
+#EXTINF:=1 tvg-logo="http://thewatchtv.com/wp-content/uploads/2017/12/Watch-Most-Video-TV-Live-TV-from-Kiev.jpg",MostVideo TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1,Hungama
+http://jprdigitalott.com/media/Hungama.mpd
+####################################################################################################
+####################################################################################################
+#EXTINF:-1,tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",&FLIX HD	
+http://bit.ly/dolflixhd
+#EXTINF:-1,tvg-id="ext" tvg-logo="http://bit.ly/privedoltv" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",&PRIVé HD
+http://bit.ly/dolprivehd
+#EXTINF:-1 tvg-id="B4UMovies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",B4U M0VIES
 http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="emyDOL FILM|коллекция",Celestial Classic Movies
+#EXTINF:-1 tvg-id="b4uplus.com" tvg-logo="https://b4uplus.com/images/logo.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",B4U PLUS
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",CELESTIAL CLASSIC MOVIES
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ca/Lotus_Macau.png" group-title="emyDOL FILM|коллекция",LotusTV Macau
-rtmp://live-rtmp.lotustv.duolaibo.cn:1935/lotustv/5562e9e4d409d24c9600075c
-#EXTINF:0 tvg-id="ext" group-title="emyDOL FILM|коллекция",DOLCinemaBoX (Action|Triller|Adv|Drama) 
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="emyDOL FILM|коллекция",DOLBoXFilem Marvel Studio
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?emyshero.m3u8
-#EXTINF:0 tvg-id="ext" group-title="emyDOL FILM|коллекция",DOLBoXStar Jason Statham
-http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8?emydolbsJS.m3u8
-#EXTINF:0 tvg-id="ext" group-title="emyDOL FILM|коллекция",DOLBoXStar Jackie Chan
-http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8?emydolbsJC.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.21cineplex.com/images/mvcard_banner.jpg" group-title="emyDOL FILM|коллекция",DOLCinemaBoX Cartoon
+#EXTINF:0 tvg-id="ext" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",DOLCINEMA (Action|Triller|Adv|Drama) 
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8?dolcinema.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",DOLFILMB0X CARTOON
 http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8?doldisney.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="emyDOLTV Nasional|коллекция",TVRI
+#EXTINF:0 tvg-id="ext" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",DOLFILMB0X SUPERHERO STUDIO
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?emyshero.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",DOLSTARSBOX Jason Statham
+http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8?emydolbsJS.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",DOLSTARSBOX Jackie Chan
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8?emydolbsJC.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://foxmoviesasia.com/images/fm.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",FOX MOVIES HD [id]
+http://bit.ly/dolcoitvF0XM
+#EXTINF:-1 tvg-id="HBO.hu" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20HD.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",HBO
+http://bit.ly/dolcoitvHBO
+#EXTINF:-1 tvg-id="HBO2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?emytv.m3u8
+#EXTINF:=1 tvg-id="Hbofamily.br" tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",HBO FAMILY HD [id]
+http://bit.ly/dolHBOFHDid
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://images-channel.mivo.com/channel/image/89/img-live-jgo.jpg" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",J'GO FIRST MOVIE [id]
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?doltv.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://tvnet.id/content/uploads/2019/06/My-Cinema-Live-Streaming-HD-4-400x240.jpg" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",MY CINEMA [id]
+http://210.210.155.35/session/e71bbc06-d5b6-11e8-824e-c81f66f89318/x6bnqe/s/s31/S4/mnf.m3u8?doltv.m3u8
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-logo="http://my-hd.tv/shared/img/channels/Star-Movies.gif" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",STAR MOVIES
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Bioskop.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",ZEE BIOSKOP [id]
+http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
+
+####################################################################################################
+####################################################################################################
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="-=eDOLCOI=- StasiunTV",TVRI
 http://203.153.218.26:9981/stream/channelid/1295280400?ticket=1838FCA6F92E677216F0DED6823D6C863B949F55&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/11/Tvri_jadul.svg/314px-Tvri_jadul.svg.png" group-title="emyDOLTV Nasional|коллекция",TVRI NASIONAL
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/11/Tvri_jadul.svg/314px-Tvri_jadul.svg.png" group-title="-=eDOLCOI=- StasiunTV",TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/11/Tvri_jadul.svg/314px-Tvri_jadul.svg.png" group-title="emyDOLTV Nasional|коллекция",TVRI Budaya
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/11/Tvri_jadul.svg/314px-Tvri_jadul.svg.png" group-title="-=eDOLCOI=- StasiunTV",TVRI Budaya
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="emyDOLTV OlahRaga|коллекция",TVRI Sports
+#EXTINF:-1 tvg-id="afc.id" tvg-logo="https://i.imgur.com/SpUvTmu.png" group-title="-=eDOLCOI=- StasiunTV",AFC [id]
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=3A25B850D502778BFFB753E67CC962BB1D374BC0&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",TVRI Sports
 http://210.210.155.35/qwr9ew/s/s107/index.m3u8?doltvsd.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="emyDOLTV OlahRaga|коллекция",TVRI SPORTSHD 1080p
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",TVRI SPORTSHD 1080p
 http://203.153.218.26:9981/stream/channelid/1637650880?ticket=B5594F93E61A6DF8FDEB5D63457BE002FD4C72AA&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Net_TV_nepal.jpg" group-title="emyDOLTV Nasional|коллекция",NET.HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",ASTOR SPORTS
+http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1096000.m3u8?gepenk.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://bit.do/d0LTvKD" group-title="-=eDOLCOI=- StasiunTV",Knowledge Kids
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/320px-Cartoon_Network_2004_logo.svg.png" group-title="-=eDOLCOI=- StasiunTV",Cartoon Network
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8?doltv.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Net_TV_nepal.jpg" group-title="-=eDOLCOI=- StasiunTV",NET.HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="emyDOLTV Nasional|коллекция",GTV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="-=eDOLCOI=- StasiunTV",GTV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/100px-MNCTV_logo_2015.svg.png" group-title="emyDOLTV Nasional|коллекция",MNCTV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/100px-MNCTV_logo_2015.svg.png" group-title="-=eDOLCOI=- StasiunTV",MNCTV
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6e/Rcti_%282%29.png/320px-Rcti_%282%29.png" group-title="emyDOLTV Nasional|коллекция",RCTI
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6e/Rcti_%282%29.png/320px-Rcti_%282%29.png" group-title="-=eDOLCOI=- StasiunTV",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/100px-INews.png" group-title="emyDOLTV WartaBerita & Bisnis",iNEWS
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" group-title="-=eDOLCOI=- StasiunTV",ASTRO HELLO
+http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_04.m3u8
+#EXTINF:-1 tvg-logo="http://channels.roku.com/images/1b9df463971f4d10a66086531b00f365-hd.png" group-title="-=eDOLCOI=- StasiunTV",RedBull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="-=eDOLCOI=- StasiunTV",FOX SPORTS
+http://45.58.62.92:8080
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png" group-title="-=eDOLCOI=- StasiunTV",9x JALWA
+http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/100px-INews.png" group-title="-=eDOLCOI=- StasiunTV",iNEWS
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-static.metube.id//avatars/channels/sEP6M5OVxi4OrgeXZNUd.png" group-title="emyDOLTV WartaBerita & Bisnis",MNCNews
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-static.metube.id//avatars/channels/sEP6M5OVxi4OrgeXZNUd.png" group-title="-=eDOLCOI=- StasiunTV",MNCNews
 http://202.80.222.170:80/000001/2/ch14041511564438196910/1003.m3u8?IASHttpSessionId=SLB242122019081104431917610412&ztecid=ch14041511564438196910&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch14041511564438196910&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMTEvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/100px-SCTV_Logo.svg.png" group-title="emyDOLTV Nasional|коллекция",SCTV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/100px-SCTV_Logo.svg.png" group-title="-=eDOLCOI=- StasiunTV",SCTV
 http://202.80.222.178:80/000001/2/ch00000090990000001769/1003.m3u8?IASHttpSessionId=SLB2353220190811031422374760&ztecid=ch00000090990000001769&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001769&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjUvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/100px-SCTV_Logo.svg.png" group-title="emyDOLTV Nasional|коллекция",SCTV (backup)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/100px-SCTV_Logo.svg.png" group-title="-=eDOLCOI=- StasiunTV",SCTV (backup)
 http://id2.indostreamingtv.com/live/tv2/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/8o71OfO.png" group-title="emyDOLTV RELIGI|коллекция",TV9 NUSANTARA
+#EXTINF:0 tvg-logo="https://i.imgur.com/8o71OfO.png" group-title="-=eDOLCOI=- StasiunTV",TV9 NUSANTARA
 http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/Logo_Antv_2003-2006.svg/320px-Logo_Antv_2003-2006.svg.png" group-title="emyDOLTV Nasional|коллекция",ANTV
+#EXTINF:-1 tvg-logo="http://sbctv.id/wp-content/uploads/2016/03/cropped-sbc-192x192.png" group-title="-=eDOLCOI=- StasiunTV",SBCTV
+http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/Logo_Antv_2003-2006.svg/320px-Logo_Antv_2003-2006.svg.png" group-title="-=eDOLCOI=- StasiunTV",ANTV
 http://203.153.218.26:9981/stream/channelid/1654354630?ticket=5544F13E428280F671CBCA66A03CD12A83BD28A2&profile=pass
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/320px-Trans_TV_2013.svg.png" group-title="emyDOLTV Nasional|коллекция",Trans|TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/320px-Trans_TV_2013.svg.png" group-title="-=eDOLCOI=- StasiunTV",Trans|TV
 http://202.80.222.174:80/000001/2/ch00000090990000001792/1003.m3u8?IASHttpSessionId=OTT2938201908110316521356783&ztecid=ch00000090990000001792&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001792&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMDkvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="http://ayaat.com.sa/wp-content/uploads/2018/04/new-logo1.png" group-title="emyDOLTV Nasional|коллекция,Ayaat TV (SA)
+#EXTINF:0 tvg-id="ext" tvg-logo="http://ayaat.com.sa/wp-content/uploads/2018/04/new-logo1.png" group-title="-=eDOLCOI=- StasiunTV",Ayaat TV (SA)
 http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="emyDOLTV Nasional|коллекция",Trans7
+
+#EXTINF:-1 tvg-logo="http://bit.ly/doljember1tv" group-title="-=eDOLCOI=- StasiunTV",JEMBER 1TV
+http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="-=eDOLCOI=- StasiunTV",Trans7
 http://202.80.222.175:80/000001/2/ch00000090990000001766/1003.m3u8?IASHttpSessionId=OTT2913201908110326301346783&ztecid=ch00000090990000001766&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001766&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMDgvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="emyDOLTV Nasional|коллекция",Trans|7 HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="-=eDOLCOI=- StasiunTV",Trans|7 HD
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/9/95/20140331033248%21INDOSIAR_Logo_2.png" group-title="emyDOLTV Nasional|коллекция",INDOSIAR
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/9/95/20140331033248%21INDOSIAR_Logo_2.png" group-title="-=eDOLCOI=- StasiunTV",INDOSIAR
 http://202.80.222.171:80/000001/2/ch00000090990000001771/1003.m3u8?IASHttpSessionId=SLB2353420190811032317367346&ztecid=ch00000090990000001771&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001771&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjIvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 http://210.210.155.35:80/session/4bd9000a-65bc-11e9-9057-c81f66f89318/qwr9ew/s/s04/02.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" group-title="emyDOLTV WartaBerita & Bisnis",MetroTV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" group-title="-=eDOLCOI=- StasiunTV",MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5d/TvOne_logo_%282008%29.svg/320px-TvOne_logo_%282008%29.svg.png" group-title="emyDOLTV WartaBerita & Bisnis",TVONE
+#EXTINF:-1 tvg-logo="http://www.tvboin.com/wp-content/uploads/2017/12/logo-modified-v1.png" group-title="-=eDOLCOI=- StasiunTV||Musik",TV Boin (Albania)
+http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5d/TvOne_logo_%282008%29.svg/320px-TvOne_logo_%282008%29.svg.png" group-title="-=eDOLCOI=- StasiunTV",TVONE
 http://id1.indostreamingtv.com/live/tv444/index.m3u8?fbclid=IwAR3sGNiSBn6sRU_jzwhS3pFl6SDsd13Ta0Pk6CknNmTruLHA9zL6-argvGU
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/320px-KOMPAS_TV_%282017%29.png" group-title="emyDOLTV WartaBerita & Bisnis",Kompas TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/320px-KOMPAS_TV_%282017%29.png" group-title="-=eDOLCOI=- StasiunTV",Kompas TV
 http://202.80.222.166:80/000001/2/ch00000090990000001786/1003.m3u8?IASHttpSessionId=SLB2353520190811043200365804&ztecid=ch00000090990000001786&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001786&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTUvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/JTV.jpg" group-title="emyDOLTV Nasional|коллекция",JTV
+#EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/JTV.jpg" group-title="-=eDOLCOI=- StasiunTV",JTV
 http://202.80.222.174:80/000001/2/ch00000090990000001731/1003.m3u8?IASHttpSessionId=SLB242162019081104382418534759&ztecid=ch00000090990000001731&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001731&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTQvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-logo="https://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="emyDOLTV Nasional|коллекция",JAKTV
+#EXTINF:0 tvg-logo="https://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="-=eDOLCOI=- StasiunTV",JAKTV
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/sG0KiFb.jpg" group-title="-=eDOLCOI=- StasiunTV",Arema TV
+http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w1920962254.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/200px-TVKU-BChannel.png" group-title="-=eDOLCOI=- StasiunTV",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
 http://202.80.222.167:80/000001/2/ch00000090990000001695/1003.m3u8?IASHttpSessionId=SLB242122019081104370017609387&ztecid=ch00000090990000001695&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001695&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwODAvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/320px-Rajawali_Televisi.svg.png" group-title="emyDOLTV Nasional|коллекция",RTV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/320px-Rajawali_Televisi.svg.png" group-title="-=eDOLCOI=- StasiunTV",RTV
 http://202.80.222.174:80/000001/2/ch00000090990000001791/1003.m3u8?IASHttpSessionId=OTT2927201908110435321764105&ztecid=ch00000090990000001791&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001791&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTcvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-id="ext" group-title="emyDOLTV Nasional|коллекция",BALITV
+#EXTINF:0 tvg-id="ext" group-title="-=eDOLCOI=- StasiunTV",BALITV
 http://202.80.222.170:80/000001/2/ch00000090990000001729/1003.m3u8?IASHttpSessionId=SLB242022019081104393817715062&ztecid=ch00000090990000001729&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001729&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNDIvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_alquran_big1.png" group-title="emyDOLTV RELIGI|коллекция",MAKKAH Live | Al Quran Al Kareem
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_alquran_big1.png" group-title="-=eDOLCOI=- StasiunTV",MAKKAH Live | Al Quran Al Kareem
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
-#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_alquran_big1.png" group-title="emyDOLTV RELIGI|коллекция",Medina Live | Al Sunna
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_alquran_big1.png" group-title="-=eDOLCOI=- StasiunTV",Medina Live | Al Sunna
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
-#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-NU-Channel-Logo-alpha-70x90px.png" group-title="emyDOLTV RELIGI|коллекция",NU CHANNEL
+#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-NU-Channel-Logo-alpha-70x90px.png" group-title="-=eDOLCOI=- StasiunTV",NU CHANNEL
 http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://live-tv-channels.in/pt-data/uploads/logo/id-rri-ne.jpg" group-title="emyDOLTV WartaBerita & Bisnis",RRI NET
+#EXTINF:0 tvg-logo="https://live-tv-channels.in/pt-data/uploads/logo/id-rri-ne.jpg" group-title="-=eDOLCOI=- StasiunTV",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/59/TvTempo_%282014%29.png/220px-TvTempo_%282014%29.png" group-title="emyDOLTV WartaBerita & Bisnis",TEMPO TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.astroawani.com/2013-04/61365010299_295x200.jpg" group-title="-=eDOLCOI=- StasiunTV",ASTRO AWANI
+http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/59/TvTempo_%282014%29.png/220px-TvTempo_%282014%29.png" group-title="-=eDOLCOI=- StasiunTV",TEMPO TV
 http://203.153.218.26:9981/stream/channelid/1916172973?ticket=A40A47199F252E43D11B8B09B8AA8D9FA01CC8D2&profile=pass
-#EXTINF:0 tvg-logo="http://onlineindo.tv/images/logo/tvparlemen.png" group-title="emyDOLTV WartaBerita & Bisnis,TV PARLEMEN
+#EXTINF:0 tvg-logo="http://onlineindo.tv/images/logo/tvparlemen.png" group-title="-=eDOLCOI=- StasiunTV",TV PARLEMEN
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/Rodja-TV.jpg" group-title="emyDOLTV RELIGI|коллекция",RODJA TV
+#EXTINF:0 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/Rodja-TV.jpg" group-title="-=eDOLCOI=- StasiunTV",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/EFddA5T.png?1" group-title="emyDOLTV WartaBerita & Bisnis",Jakarta Globe
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/EFddA5T.png?1" group-title="-=eDOLCOI=- StasiunTV",Jakarta Globe
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="http://images2.useetv.com/logo_beritasatu_big1.png" group-title="emyDOLTV WartaBerita & Bisnis",BERITA SATU
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://images2.useetv.com/logo_beritasatu_big1.png" group-title="-=eDOLCOI=- StasiunTV",BERITA SATU
 http://202.80.222.178:80/000001/2/ch00000090990000001683/1003.m3u8?IASHttpSessionId=SLB242022019081104340017714406&ztecid=ch00000090990000001683&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001683&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNDEvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png" group-title="emyDOLTV WartaBerita & Bisnis",CNN Indonesia
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png" group-title="-=eDOLCOI=- StasiunTV",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wesal_tv_id.png" group-title="emyDOLTV RELIGI|коллекция",WESAL TV
-http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="emyDOLTV WartaBerita & Bisnis",CNBC Indonesia
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="-=eDOLCOI=- StasiunTV",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.firstmedia.com/uploads/LOGO%20berita%20satu.png" group-title="emyDOLTV WartaBerita & Bisnis",BERITA SATU WORLD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/320px-AXN_logo_%282015%29.svg.png" group-title="-=eDOLCOI=- StasiunTV",AXN
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61fGOE9wmuL._SY355_.png" group-title="-=eDOLCOI=- StasiunTV",BEACH TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1 tvg-logo="http://www.diva-cosmetics.co.uk/img/diva-logo-1450966619.jpg" group-title="-=eDOLCOI=- StasiunTV",DIVA [id}
+http://bit.ly/dolDIVAid
+#EXTINF:-1 tvg-id="E.uk" tvg-logo="http://www.vector-logo.net/logo_preview/ai/e/Entertainment_TV_logo.png" group-title="-=eDOLCOI=- StasiunTV",E! ENTERTAIMENT
+http://210.210.155.35/uq2663/h/h10/01.m3u8
+#EXTINF:0 tvg-logo="https://www.fixhd.tv/wp-content/uploads/2018/05/FIX_mini-logo200x113.png" group-title="-=eDOLCOI=- StasiunTV",FiX
+http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/320px-FOX_wordmark-orange.svg.png" group-title="-=eDOLCOI=- StasiunTV",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=5E8466C220AEA92EFFBDC97384EBD4DAA04EFDF7&profile=pass
+#EXTINF:0 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="-=eDOLCOI=- StasiunTV",FOODIE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?emytv.m3u8
+#EXTINF:-1 tvg-id="food-network-us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/246px-Food_Network_New_Logo.png" group-title="-=eDOLCOI=- StasiunTV",FOOD NETWORK
+https://live2.hoolatv.com/live/foodnetwork_hi/chunks.m3u8?doltv7.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://oona.tv/assets/img/channels/homeandliving.png" group-title="-=eDOLCOI=- StasiunTV",HOME&LIVING
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.firstmedia.com/uploads/LOGO%20berita%20satu.png" group-title="-=eDOLCOI=- StasiunTV",BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="http://bit.ly/dolcnnint" group-title="emyDOLTV WartaBerita & Bisnis",CNN Int'l
+#EXTINF:0 tvg-id="ext" tvg-logo="http://bit.ly/dolcnnint" group-title="-=eDOLCOI=- StasiunTV",CNN Int'l
 http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="bloomberg" group-title="emyDOLTV WartaBerita & Bisnis",BLOOMBERG
+#EXTINF:0 tvg-id="bloomberg" group-title="-=eDOLCOI=- StasiunTV",BLOOMBERG
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BBC_World_Service_red.svg/318px-BBC_World_Service_red.svg.png" group-title="emyDOLTV WartaBerita & Bisnis",BBC World News
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BBC_World_Service_red.svg/318px-BBC_World_Service_red.svg.png" group-title="-=eDOLCOI=- StasiunTV",BBC World News
 http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="emyDOLTV WartaBerita & Bisnis",RTHK TV 32
+#EXTINF:0 tvg-id="ext" group-title="-=eDOLCOI=- StasiunTV",RTHK TV 32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
-#EXTINF:0 tvg-id="AlJazeera.nws" group-title="emyDOLTV WartaBerita & Bisnis",Aljazeera English
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="-=eDOLCOI=- StasiunTV",Aljazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_mu_id.png" group-title="emyDOLTV RELIGI|коллекция",TvMU
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="-=eDOLCOI=- StasiunTV",ASTRO OKEY
+http://rtm1mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1096000.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_mu_id.png" group-title="-=eDOLCOI=- StasiunTV",TvMU
 rtmp://118.97.183.222:1935/discover/muhammadiyahtv
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="emyDOL StasiunTV|коллекция",THE INDONESIA CHANNEL
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="-=eDOLCOI=- StasiunTV",THE INDONESIA CHANNEL
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
-#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Kitanesia-logo-01-90px.png" group-title="emyDOL StasiunTV|коллекция",Kitanesia
+#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Kitanesia-logo-01-90px.png" group-title="-=eDOLCOI=- StasiunTV",Kitanesia
 http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/800px-Arirang_logo.png" group-title="emyDOLTV WartaBerita & Bisnis",Arirang
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/800px-Arirang_logo.png" group-title="-=eDOLCOI=- StasiunTV",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="DW.al" group-title="emyDOLTV WartaBerita & Bisnis",DW
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="emyDOLTV WartaBerita & Bisnis",SKY NEWS
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="-=eDOLCOI=- StasiunTV",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Arek-TV-logo-3D-90px.png" group-title="emyDOL StasiunTV|коллекция",ArekTV
+#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Arek-TV-logo-3D-90px.png" group-title="-=eDOLCOI=- StasiunTV",ArekTV
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-TV-Desa-150x67px.png" group-title="emyDOL StasiunTV|коллекция",TVDESA
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/kk/karaoke_channel_id.png" group-title="-=eDOLCOI=- StasiunTV||Musik",Karaoke Indo Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?doltv.m3u8
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-TV-Desa-150x67px.png" group-title="-=eDOLCOI=- StasiunTV",TVDESA
 http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.inspira.tv/images/logo.png" group-title="emyDOL StasiunTV|коллекция",Inspira TV
+#EXTINF:-1 tvg-logo="http://www.inspira.tv/images/logo.png" group-title="-=eDOLCOI=- StasiunTV",Inspira TV
 http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
-#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-DMI-Channel-01-Edit-150x66px.jpg" group-title="emyDOLTV RELIGI|коллекция",DMI TV
+#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-DMI-Channel-01-Edit-150x66px.jpg" group-title="-=eDOLCOI=- StasiunTV",DMI TV
 http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/elshinta_tv_id.png" group-title="emyDOL StasiunTV|коллекция",Elshinta TV
-http://rr2.dens.tv/s/s10/index2.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://listimg.pinclipart.com/picdir/s/123-1239994_fanatik-info-tv-adalah-channel-favorit-dari-topas.png" group-title="emyDOL StasiunTV|коллекция",InfoTV
+#EXTINF:0 tvg-id="ext" tvg-logo="https://listimg.pinclipart.com/picdir/s/123-1239994_fanatik-info-tv-adalah-channel-favorit-dari-topas.png" group-title="-=eDOLCOI=- StasiunTV",InfoTV
 http://202.80.222.174:80/000001/2/ch00000090990000001802/1003.m3u8?IASHttpSessionId=SLB242082019081104512718363336&ztecid=ch00000090990000001802&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch00000090990000001802&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjgvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-id="ext" tvg-logo="https://pbs.twimg.com/profile_images/950408345445285888/kZLgeCmK.jpg" group-title="emyDOL StasiunTV|коллекция",JPM TV
+#EXTINF:0 tvg-id="ext" tvg-logo="https://pbs.twimg.com/profile_images/950408345445285888/kZLgeCmK.jpg" group-title="-=eDOLCOI=- StasiunTV",JPM TV
 http://122.248.43.138:1935/jpm/myStream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" group-title="emyDOLTV RELIGI|коллекция",AHSAN TV
+#EXTINF:0 tvg-logo="http://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" group-title="-=eDOLCOI=- StasiunTV",AHSAN TV
 rtmp://119.82.224.75:1935/live/ahsantv
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/320px-DAAI_TV_Jakarta.png" group-title="emyDOL StasiunTV|коллекция",Da Ai TV
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/320px-DAAI_TV_Jakarta.png" group-title="-=eDOLCOI=- StasiunTV",Da Ai TV
 http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/FEHYAlQ.png?1" group-title="emyDOLTV RELIGI|коллекция",Tahfiz TV
-http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dbhI3Wo2GyU/XR0_nZwT5sI/AAAAAAAAAK0/MK1VN6Xrq2YAN8XJssgUAguihtxrldwCwCLcBGAs/s1600/GramediaTV.png" group-title="emyDOL StasiunTV|коллекция",Gramedia TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dbhI3Wo2GyU/XR0_nZwT5sI/AAAAAAAAAK0/MK1VN6Xrq2YAN8XJssgUAguihtxrldwCwCLcBGAs/s1600/GramediaTV.png" group-title="-=eDOLCOI=- StasiunTV",Gramedia TV
 http://203.153.218.26:9981/stream/channelid/1483038845?ticket=39AD12280C9F70015D69E672A0F34CEE3EAF757E&profile=pass
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png" group-title="emyDOL StasiunTV|коллекция",NTV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png" group-title="-=eDOLCOI=- StasiunTV",NTV
 http://203.153.218.26:9981/stream/channelid/1720680830?ticket=2FC47E8010DAF08893E9BB83314E0DC495CC1551&profile=pass
-#EXTINF:0 tvg-logo="https://i.ibb.co/17F4PQN/bbstv.png" group-title="emyDOL StasiunTV|коллекция",BBSTV
+#EXTINF:0 tvg-logo="https://i.ibb.co/17F4PQN/bbstv.png" group-title="-=eDOLCOI=- StasiunTV",BBSTV
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/dolbmstv"group-title="emyDOL StasiunTV|коллекция",BMSTV
+#EXTINF:-1 tvg-logo="http://bit.ly/dolbmstv"group-title="-=eDOLCOI=- StasiunTV",BMSTV
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/03/Ch-Rumah-TV2-250px.png" group-title="emyDOL StasiunTV|коллекция",Rumah TV
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/03/Ch-Rumah-TV2-250px.png" group-title="-=eDOLCOI=- StasiunTV",Rumah TV
 https://video2.onlivestreaming.net/rumahtv/livestream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://nadamuslimtv.com/assets/images/logo.png" group-title="emyDOLTV RELIGI|коллекция",Nada Muslim TV
+#EXTINF:-1 tvg-logo="http://nadamuslimtv.com/assets/images/logo.png" group-title="-=eDOLCOI=- StasiunTV",Nada Muslim TV
 http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="emyDOLTV RELIGI|коллекция",TvIkim
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="-=eDOLCOI=- StasiunTV",TvIkim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="http://bit.ly/doliAmCh" group-title="emyDOLTV RELIGI|коллекция",I Am Channel
+#EXTINF:0 tvg-id="ext" tvg-logo="http://bit.ly/doliAmCh" group-title="-=eDOLCOI=- StasiunTV",I Am Channel
 http://iamchannel.org:1935/tes/1/playlist.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/sG0KiFb.jpg" group-title="emyDOL StasiunTV|коллекция",Arema TV
-http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w1920962254.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="emyDOL StasiunTV|коллекция",KawanuaTV
-http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/200px-TVKU-BChannel.png" group-title="emyDOL StasiunTV|коллекция",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:0 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple19/v4/d9/7d/1c/d97d1c29-b4d9-af7b-0ab4-b6d3fa73e593/mzl.skymjhuf.png/1200x630wa.png" group-title="emyDOLTV RELIGI|коллекция",ASWAJA TV
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="-=eDOLCOI=- StasiunTV",ASTRO VAANAVIL
+http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_04.m3u8
+#EXTINF:0 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple19/v4/d9/7d/1c/d97d1c29-b4d9-af7b-0ab4-b6d3fa73e593/mzl.skymjhuf.png/1200x630wa.png" group-title="-=eDOLCOI=- StasiunTV",ASWAJA TV
 http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gxhlZQm.jpg?1" group-title="emyDOL StasiunTV|коллекция",AdiTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gxhlZQm.jpg?1" group-title="-=eDOLCOI=- StasiunTV",AdiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ctv" tvg-logo="" group-title="emyDOL StasiunTV|коллекция",CTV
-http://103.23.201.170:1935/live/livestream/lihattv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/reformed_21_id.png" group-title="emyDOLTV RELIGI|коллекция",Reformed 21
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.isdn-info.co.jp/sp/hikari_tv/image/japanet_dx.gif" group-title="-=eDOLCOI=- StasiunTV",Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/200px-Mayapada_TV.png" group-title="-=eDOLCOI=- StasiunTV",MyTV
+http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="StarWorld.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="-=eDOLCOI=- StasiunTV",STAR WORLD
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/320px-Logo_tvN.svg.png" group-title="-=eDOLCOI=- StasiunTV",TvN
+http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/reformed_21_id.png" group-title="-=eDOLCOI=- StasiunTV",Reformed 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="emyDOL StasiunTV|коллекция",Tegar TV
-http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="emyDOL StasiunTV|коллекция",SBO TV
+#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="-=eDOLCOI=- StasiunTV",SBOTV
 http://stream.sbo.co.id:1935/sbotv/live/chunklist_w433447537.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="emyDOL StasiunTV|коллекция",PJTV
-http://122.248.43.138:1935/ch26/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="" group-title="emyDOL StasiunTV|коллекция",TATV
-http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pon-tv-id.png" group-title="emyDOL StasiunTV|коллекция",PONTV
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pon-tv-id.png" group-title="-=eDOLCOI=- StasiunTV",PONTV
 http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="StarWorld.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="emyDOLTV HIBURAN|коллекция",StarWorld
-http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" group-title="emyDOLTV HIBURAN|коллекция",Astro Hello
-http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_04.m3u8
-#EXTINF:-1 tvg-id="food-network-us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/246px-Food_Network_New_Logo.png" group-title="emyDOLTV HIBURAN|коллекция",FOOD NETWORK
-https://live2.hoolatv.com/live/foodnetwork_hi/chunks.m3u8?doltv7.m3u8
-#EXTINF:0 tvg-logo="https://www.fixhd.tv/wp-content/uploads/2018/05/FIX_mini-logo200x113.png" group-title="emyDOLTV HIBURAN|коллекция",FiX
-http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/320px-FOX_wordmark-orange.svg.png" group-title="emyDOLTV HIBURAN|коллекция",FOX
-http://122.129.115.21:1935/edgedol/_definst_/tao106/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/200px-Mayapada_TV.png" group-title="emyDOLTV HIBURAN|коллекция",MyTV
-http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="http://bit.ly/dolKplus" group-title="emyDOLTV HIBURAN|коллекция",K+
-http://210.210.155.35/uq2663/h/h08/index1.m3u8
-#EXTINF:0 tvg-id="E.uk" group-title="emyDOLTV HIBURAN|коллекция",E! Entertainment
-http://210.210.155.35/uq2663/h/h10/01.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://oona.tv/assets/img/channels/homeandliving.png" group-title="emyDOLTV HIBURAN|коллекция",Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" group-title="emyDOLTV HIBURAN|коллекция",FOODIE
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?emytv.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/320px-Logo_tvN.svg.png" group-title="emyDOLTV HIBURAN|коллекция",TvN
-http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
-
-
+####################################################################################################
+####################################################################################################
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-SF--WlsZW-s/XIWrQuZ0AUI/AAAAAAAAndo/SmJwjLdjPTEFj5oAKC3bpPS0jaJCy3UWgCLcBGAs/s1600/super-soccer-tv-channel-logo.png" group-title="emyDOLTV |OlahRaga",SOCCER TV,http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="emyDOLTV OlahRaga|коллекция",1|ADSPORTS
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/AbuDhabiSports1.ae.png" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",1|ADSPORTS
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?dolsports.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="emyDOLTV OlahRaga|коллекция",ALLSPORTS
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",ALLSPORTS
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?dolsports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/CBC_Sport%2C_logo%2C_2015.png" group-title="emyDOLTV OlahRaga|коллекция",CBC SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/CBC_Sport%2C_logo%2C_2015.png" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",CBC SPORTS
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8?d0LTvco.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png" group-title="emyDOLTV OlahRaga|коллекция",DSPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",DSPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?d0LTvuS.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg" group-title="emyDOLTV OlahRaga|коллекция",DD SPORTS
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8?d0LTviN.m3u8
-#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/320px-Esport3.svg.png" group-title="emyDOLTV OlahRaga|коллекция",ESPORTS
+#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/320px-Esport3.svg.png" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",ESPORTS
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/chunklist_b1296000_DVR.m3u8?dolsports.m3u8
-#EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/freesports.png" group-title="emyDOLTV OlahRaga|коллекция",FREE SPORTS
+#EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/freesports.png" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",FREE SPORTS
 https://live2.hoolatv.com/live/freesports_hi/chunks.m3u8?d0LTvco.m3u8
-#EXTINF:-1 tvg-id="FightBox.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="emyDOLTV OlahRaga|коллекция",FIGHT BOX
+#EXTINF:-1 tvg-id="FightBox.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",FIGHT BOX
 http://ott-cdn.ucom.am/s86/index.m3u8?doltvfight.m3u8
-#EXTINF:-1 tvg-logo="https://image.jtbcgolf.joins.com/main/151231_h_top_logo.png" group-title="emyDOLTV OlahRaga|коллекция",JTBC GOLF
+#EXTINF:-1 tvg-logo="https://image.jtbcgolf.joins.com/main/151231_h_top_logo.png" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",JTBC GOLF
 http://122.129.115.21:1935/edgedol/_definst_/tao129/chunklist_w1957069897.m3u8?d0LTvco.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/Liga_1_Shopee.png/200px-Liga_1_Shopee.png" group-title="emyDOLTV OlahRaga|коллекция",LIGA SHOOPEE
-http://203.153.218.26:9981/stream/channelid/1508492680?ticket=5333A6234C818D2D61D5FDB0A896D14C05336BCA&profile=pass
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/update_june_mncsport.jpg" group-title="emyDOLTV OlahRaga|коллекция,MNC SPORTS
+#EXTINF:-1,SPORTS|7
+http://45.58.62.92:8082
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/update_june_mncsport.jpg" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA,MNC SPORTS
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="emyDOLTV OlahRaga|коллекция",NBA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",NBA TV
 http://23.237.22.82:8086/udp/127.0.0.1:56052
-#EXTINF:-1 tvg-logo="http://bit.do/d0LTvol" group-title="emyDOLTV OlahRaga|коллекция",OLYMPIC CHANNEL
+#EXTINF:-1 tvg-logo="http://bit.do/d0LTvol" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",OLYMPIC CHANNEL
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?dolsports.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/RacingCom.au.png" group-title="emyDOLTV OlahRaga|коллекция",RACING.COM
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/RacingCom.au.png" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",RACING.COM
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?d0LTv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/320px-Setanta-logo.jpg" group-title="emyDOLTV OlahRaga|коллекция",SETANTA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/320px-Setanta-logo.jpg" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",SETANTA
 http://ott-cdn.ucom.am/s81/03.m3u8?dolsports.m3u8
-#EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org" tvg-logo="https://i.imgur.com/xHeAQ2S.jpg?1" group-title="emyDOLTV OlahRaga|коллекция,WWE Network
+#EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org" tvg-logo="https://i.imgur.com/xHeAQ2S.jpg?1" group-title="-=eDOLCOI=- StasiunTV|OLAHRAGA",WWE Network
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-
+####################################################################################################
+####################################################################################################
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="emyDOLTV |Anak Anak",Aniplus,http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yZdUHSW.jpg" group-title="emyDOLTV |Anak Anak",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
@@ -318,8 +315,6 @@ http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8?doltv.m3u8
 #EXTINF:0 logo="http://tv.dekagon.id/logo/disney_junior_us.png" tvg-id="276cc1833c28d82ea5411b15b713f971"" group-title="emyDOLTV |Anak Anak",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="http://bit.do/d0LTvKD" group-title="emyDOLTV |Anak Anak",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="emyDOLTV |Anak Anak",Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/tva.onscreenasia.com/wp-content/uploads/archive/onscreenasia/miao_logo_c.jpg" group-title="emyDOLTV |Anak Anak",Miao Mi
@@ -337,154 +332,152 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:0 tvg-logo="https://www.biznetnetworks.com/assets/img/bizkids.png" group-title="emyDOLTV |Anak Anak",BisKids|HD,http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w761082683_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD0zekpVVldLVXZUbGtoUG03ZUMzU0FJMU13cnU0RVBKWVJDUEpIbXZ4Z1pLd0xJWmdkSGt1OXBXOWpud0xydDN2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/kk/karaoke_channel_id.png" group-title="emyDOLTV MUSIK|коллекция",Karaoke Indo Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?doltv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="emyDOLTV MUSIK|коллекция",Karaoke World Channel
+#EXTINF:0 tvg-id="ext" group-title="-=eDOLCOI=- StasiunTV||Musik",Karaoke World Channel
 http://www.djing.com/tv/karaoke.m3u8?doltv.m3u8?doltv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s212875q.png" group-title="emyDOLTV MUSIK|коллекция",Aghani
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s212875q.png" group-title="-=eDOLCOI=- StasiunTV||Musik",Aghani
 https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/NOW.png" group-title="emyDOLTV MUSIK|коллекция",Music Now
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/NOW.png" group-title="-=eDOLCOI=- StasiunTV||Musik",Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/175px-MTV_Logo_2010.svg.png" group-title="emyDOLTV MUSIK|коллекция",MTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/175px-MTV_Logo_2010.svg.png" group-title="-=eDOLCOI=- StasiunTV||Musik",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-MK-Tv-logo-final-color-113x90px.png" group-title="emyDOLTV MUSIK|коллекция",MKTV
-http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-150x90px.png" group-title="emyDOLTV MUSIK|коллекция",MALEO
+#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-150x90px.png" group-title="-=eDOLCOI=- StasiunTV||Musik",MALEO
 http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="emyDOLTV MUSIK|коллекция",Music Choice
+#EXTINF:-1 tvg-logo="" group-title="-=eDOLCOI=- StasiunTV||Musik",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-eXXeJoXxaX0/WVZnemFlA-I/AAAAAAAAATs/mCC-_0Aia8Qym1dgy-cD_VqI66K6NNvvQCLcBGAs/s1600/dil.png",DilSe
-https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
-#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Zing-150x86px.png" group-title="emyDOLTV MUSIK|коллекция",POP Musik
+https://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_828_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Zing-150x86px.png" group-title="-=eDOLCOI=- StasiunTV||Musik",POP Musik
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.firstmedia.com/files/packages/channel_dangdutz.jpg" group-title="emyDOLTV MUSIK|коллекция",DANGDUTZ
+#EXTINF:0 tvg-logo="https://www.firstmedia.com/files/packages/channel_dangdutz.jpg" group-title="-=eDOLCOI=- StasiunTV||Musik",DANGDUTZ
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/200px-Radio_m2o_-_Logo_2019.svg.png" group-title="emyDOLTV MUSIK|коллекция",RadioM2O
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/200px-Radio_m2o_-_Logo_2019.svg.png" group-title="-=eDOLCOI=- StasiunTV||Musik",RadioM2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png"  group-title="emyDOLTV MUSIK|коллекция",Top Latino TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png"  group-title="-=eDOLCOI=- StasiunTV||Musik",Top Latino TV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
 
-#EXTINF:0 tvg-id="DIYNetworkHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/320px-DIY_Network_logo.svg.png" group-title="emyDOLTV|EXPLORER",new|DIY Network
-#EXTINF:-1 tvg-id="" tvg-logo="https://anakhebatindonesia.com/joimg/unit_usaha/cooking-910-Logo%20COOKING.jpg" group-title="emyDOLTV |EXPLORER",The Art of Cooking Documentary
-https://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/16.jpg" group-title="emyDOLTV |EXPLORER",CGTN Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/insighttvuhd/assets/7c15b157-b50a-4547-877e-6a5ff7aa6bd1.png",Insight
-http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
-#EXTINF:0 tvg-id="SmithsonianChannel.uk" group-title="emyDOLTV |EXPLORER,Smithsonian Channel
-http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1cZJebM.png" group-title="emyDOLTV |EXPLORER",Discovery Asia
-http://61.216.10.122:4046/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/320px-Natgeologo.svg.png" group-title="emyDOLTV |EXPLORER",NAT GEO
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=6125EF8C23E1DC1183AD45B22AB25E348AB2CB97&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/320px-Nat_Geo_Wild_logo.png" group-title="emyDOLTV |EXPLORER",NAT GEO Wild
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=A1217AFD7D4BACB9F66B9B369E8BC5B02FB0CEE4&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/320px-New_NatGeo_People_logo.svg.png" group-title="emyDOLTV |EXPLORER",NAT GEO People
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/200px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="emyDOLTV |EXPLORER",Animal Planet
-http://103.194.169.110/OiIsk2umaR/XM8zppGbNV/18636
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="emyDOLTV |EXPLORER",HISTORY
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A20883C796D7F6C137B2F95FF0C&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/303px-H2_TV_logo.svg.png" group-title="emyDOLTV |EXPLORER",HISTORY2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="emyDOLTV |EXPLORER",DISCOVERY
-http://80.80.160.168/live/8/500000/live.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/225px-Science_Channel_logo.svg.png" group-title="emyDOLTV |EXPLORER",DISCOVERY SCI
-http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/216px-Investigation_Discovery_Logo_2018.svg.png" group-title="emyDOLTV |EXPLORER",ID
-http://80.80.160.168/live/5/500000/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/0/07/20130312153436%21Travel_Channel_logo.png" group-title="emyDOLTV |EXPLORER",TRAVEL CHANNEL
-http://80.80.160.168/live/3/500000/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3b/Automoto_TV_Logo_2015.png" group-title="emyDOLTV |EXPLORER",100AUTOMOTO TV
+####################################################################################################
+####################################################################################################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/3b/Automoto_TV_Logo_2015.png" group-title="-=eDOLCOI=- StasiunTV|EDUKASI",100AUTOMOTO.TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="emyDOLTV |EXPLORER",Titanic TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://anakhebatindonesia.com/joimg/unit_usaha/cooking-910-Logo%20COOKING.jpg" group-title="-=eDOLCOI=- StasiunTV|EDUKASI",ART Of COOKING DOCUMENTARY
+https://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/16.jpg" group-title="-=eDOLCOI=- StasiunTV|EDUKASI",CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8?doltv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png" group-title="-=eDOLCOI=- StasiunTV|EDUKASI",ANIMAL PLANET ASIA
+http://bit.ly/dolANPLA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1cZJebM.png" group-title="-=eDOLCOI=- StasiunTV|EDUKASI",DISCOVERY ASIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="-=eDOLCOI=- StasiunTV|EDUKASI",DISCOVERY CHANNEL [id]
+http://bit.ly/dolDCHid
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="-=eDOLCOI=- StasiunTV|EDUKASI",HISTORY HD [id]
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A20883C796D7F6C137B2F95FF0C&profile=pass?dolhistoryid
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/303px-H2_TV_logo.svg.png" group-title="-=eDOLCOI=- StasiunTV|EDUKASI",HISTORY 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/04.m3u8?dolh2.m3u8
+#EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/insighttvuhd/assets/7c15b157-b50a-4547-877e-6a5ff7aa6bd1.png" group-title="-=eDOLCOI=- StasiunTV|EDUKASI",INSIGHT
+http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/320px-Natgeologo.svg.png" group-title="-=eDOLCOI=- StasiunTV|EDUKASI",NAT GEO HD [id]
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=6125EF8C23E1DC1183AD45B22AB25E348AB2CB97&profile=pass?dolnatgeoid
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/320px-Nat_Geo_Wild_logo.png" group-title="-=eDOLCOI=- StasiunTV|EDUKASI",NAT GEO WILD HD [id]
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=A1217AFD7D4BACB9F66B9B369E8BC5B02FB0CEE4&profile=pass?dolnatgeowildid
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/320px-New_NatGeo_People_logo.svg.png" group-title="-=eDOLCOI=- StasiunTV|EDUKASI",NAT GEO PEOPLE HD [id]
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass?dolnatgeopeopleid
+#EXTINF:0 tvg-id="ext" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_titanic.png" group-title="-=eDOLCOI=- StasiunTV|EDUKASI",TITANIC CHANNEL
 https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/0/07/20130312153436%21Travel_Channel_logo.png" group-title="-=eDOLCOI=- StasiunTV|EDUKASI",TRAVEL CHANNEL
+http://vipottbpkstream.vip.hr/Content/vipnet-hls-vmx/Live/Channel(Travel_Channel)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6WLMLi6.png" group-title="emyDOLTV WartaBerita & Bisnis",Palestine Today
+####################################################################################################
+####################################################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6WLMLi6.png" group-title="-=eDOLCOI=- StasiunTV",Palestine Today
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="emyDOLTV WartaBerita & Bisnis",DW News
+#EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="-=eDOLCOI=- StasiunTV",DW News
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png" group-title="emyDOLTV WartaBerita & Bisnis",FRANCH 24
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png" group-title="-=eDOLCOI=- StasiunTV",FRANCH 24
 http://45.126.83.51/qwr9ew/s/s22/index2.m3u8
-#EXTINF:-1 tvg-id="VOA.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/320px-VOA_logo.svg.png" group-title="emyDOLTV WartaBerita & Bisnis",VOA
+#EXTINF:-1 tvg-id="VOA.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/320px-VOA_logo.svg.png" group-title="-=eDOLCOI=- StasiunTV",VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/ee/et_now.png" group-title="emyDOLTV WartaBerita & Bisnis",ET Now
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/ee/et_now.png" group-title="-=eDOLCOI=- StasiunTV",ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/YTN_KOREAN.png" group-title="emyDOLTV WartaBerita & Bisnis",YTN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/YTN_KOREAN.png" group-title="-=eDOLCOI=- StasiunTV",YTN
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrFPfz2.jpg" group-title="emyDOLTV |WorldTV",EDGE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrFPfz2.jpg" group-title="-=eDOLCOI=- StasiunTV",EDGE
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="emyDOLTV |WorldTV",GongMax TV
+#EXTINF:0 tvg-id="ext" group-title="-=eDOLCOI=- StasiunTV",GongMax TV
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-#EXTINF:0 tvg-id="TVMarkiza.hu" group-title="emyDOLTV |WorldTV",Markiza
+#EXTINF:0 tvg-id="TVMarkiza.hu" group-title="-=eDOLCOI=- StasiunTV",Markiza
 http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61fGOE9wmuL._SY355_.png" group-title="emyDOLTV |WorldTV",BEACH TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:0 tvg-id="ext" group-title="emyDOLTV |WorldTV",The Outdoor Cooking Channel
+
+#EXTINF:0 tvg-id="ext" group-title="-=eDOLCOI=- StasiunTV",The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
-#EXTINF:0 tvg-id="W24.at" group-title="emyDOLTV |WorldTV",W24
+#EXTINF:0 tvg-id="W24.at" group-title="-=eDOLCOI=- StasiunTV",W24
 https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w1705775763_b2176000_slger.m3u8
-#EXTINF:0 tvg-id="ext" group-title="emyDOLTV |WorldTV",Hunt Channel
+#EXTINF:0 tvg-id="ext" group-title="-=eDOLCOI=- StasiunTV",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="emyDOLTV |WorldTV",Kəpəz TV
+#EXTINF:0 tvg-id="ext" group-title="-=eDOLCOI=- StasiunTV",Kəpəz TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:0 tvg-id="TFX.fr" group-title="emyDOLTV |WorldTV",TFX
+#EXTINF:0 tvg-id="TFX.fr" group-title="-=eDOLCOI=- StasiunTV",TFX
 https://s1.tntendirect.com/nt1/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://f.ptcdn.info/850/055/000/p34ku3wz46HXMTLoA1d-o.png" group-title="emyDOLTV |.THAICOM & APSTAR6",MCOT FAMMILY
+#EXTINF:-1 tvg-logo="https://f.ptcdn.info/850/055/000/p34ku3wz46HXMTLoA1d-o.png" group-title="-=eDOLCOI=- StasiunTV",MCOT FAMMILY
 http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w319792887_b2000000.m3u8
-#EXTINF:-1 group-title="emyDOLTV |.THAICOM & APSTAR6",THAI PBS
+#EXTINF:-1 group-title="-=eDOLCOI=- StasiunTV",THAI PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 group-title="emyDOLTV |.THAICOM & APSTAR6",Workpoint
+#EXTINF:-1 group-title="-=eDOLCOI=- StasiunTV",Workpoint
 http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
-#EXTINF:-1 tvg-logo="http://advancedigitaltech.com/wp-content/uploads/2016/10/True4u-New.png" group-title="emyDOLTV |.THAICOM & APSTAR6",True4U
+#EXTINF:-1 tvg-logo="http://advancedigitaltech.com/wp-content/uploads/2016/10/True4u-New.png" group-title="-=eDOLCOI=- StasiunTV",True4U
 http://live.pjmcdn.info/live/True4U.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/293033781050211.png" group-title="emyDOLTV |.THAICOM & APSTAR6",PPTVHD36
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/293033781050211.png" group-title="-=eDOLCOI=- StasiunTV",PPTV36
 http://183.182.100.184/live/pptvthai/index.m3u8
-#EXTINF:-1 group-title="emyDOLTV |.THAICOM & APSTAR6",NEW TV
+#EXTINF:-1 group-title="-=eDOLCOI=- StasiunTV",NEW TV
 http://newtv.cdn.byteark.com/live/playlist_360p/index.m3u8
-#EXTINF:-1 group-title="emyDOLTV |.THAICOM & APSTAR6",THAIRATH TV
+#EXTINF:-1 group-title="-=eDOLCOI=- StasiunTV",THAIRATH TV
 https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
-#EXTINF:-1 group-title="emyDOLTV |.THAICOM & APSTAR6",WORKPOINT
+#EXTINF:-1 group-title="-=eDOLCOI=- StasiunTV",WORKPOINT
 http://122.155.205.9/live/workpoint.stream/chunklist_w1998776218.m3u8
-#EXTINF:-1 group-title="emyDOLTV |.THAICOM & APSTAR6",CARTOON CLUB
+#EXTINF:-1 group-title="-=eDOLCOI=- StasiunTV",CARTOON CLUB
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 
-#EXTINF:-1 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/6/3/csm_13-400_import_f30468be15.png" group-title="emyDOLTV |.THAICOM & APSTAR6",MYTV
+#EXTINF:-1 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/6/3/csm_13-400_import_f30468be15.png" group-title="-=eDOLCOI=- StasiunTV",MYTV
 http://220.158.149.14:9999/live/TV00000000000000000041@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://www.konsva.com/my_file/2016/11/cnc-300x160.jpg" group-title="emyDOLTV |.THAICOM & APSTAR6",CNC
+#EXTINF:-1 tvg-logo="https://www.konsva.com/my_file/2016/11/cnc-300x160.jpg" group-title="-=eDOLCOI=- StasiunTV",CNC
 http://220.158.149.14:9999/live/TV00000000000000000040@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/3/0/csm_11-400_import_48bedfe9f7.png" group-title="emyDOLTV |.THAICOM & APSTAR6",CTN
+#EXTINF:-1 tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/3/0/csm_11-400_import_48bedfe9f7.png" group-title="-=eDOLCOI=- StasiunTV",CTN
 http://220.158.149.14:9999/live/TV00000000000000000039@HHZT;LIVE
 
-#EXTINF:-1 group-title="emyDOLTV |VideoOnDemen",[VOD] Mahsa & Beruang 
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png" group-title="-=eDOLCOI=- VideoOnDemen",[VOD] DILAN 1990
+https://www.googleapis.com/drive/v3/files/1GAdPIuvG9D4xx3fKCXf4a1Jg7FmzQB3C?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png" group-title="-=eDOLCOI=- VideoOnDemen",[VOD] Keluarga Cemara 2019
+https://www.googleapis.com/drive/v3/files/1WGEdGmWd-DI3oYzjcPpyXiDX_OF2RLun?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png" group-title="-=eDOLCOI=- VideoOnDemen",[VOD] Yowes Ben 2 2019
+https://www.googleapis.com/drive/v3/files/1RAz-XqeDKLpjI8WRziZKTYen8RulaKWx?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
+#EXTINF:-1 group-title="-=eDOLCOI=- VideoOnDemen",[VOD] Mahsa & Beruang 
 https://cdn0-a.production.vidio.static6.com/uploads/264240/1-youtube-635e-b1200.mp4.m3u8
-#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="emyDOLTV |VideoOnDemen",[VOD] MUNAFIK
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="-=eDOLCOI=- VideoOnDemen",[VOD] MUNAFIK
 http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/1g4s767FX6TZrCfyUe0X24UZHwb.jpg" group-title="emyDOLTV |VideoOnDemen",[VOD] Pengabdi Setan (2017)
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/1g4s767FX6TZrCfyUe0X24UZHwb.jpg" group-title="-=eDOLCOI=- VideoOnDemen",[VOD] Pengabdi Setan (2017)
 https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/dwmQ9FyTbgKd62HVzdg34ep5roM.jpg" group-title="emyDOLTV |VideoOnDemen",[VOD] Danur (2017)
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/dwmQ9FyTbgKd62HVzdg34ep5roM.jpg" group-title="-=eDOLCOI=- VideoOnDemen",[VOD] Danur (2017)
 https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sp95sUW1ZCyyPZMU8YOtJfo6rBK.jpg" group-title="emyDOLTV |VideoOnDemen",[VOD] Ayat-Ayat Cinta 2 (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sp95sUW1ZCyyPZMU8YOtJfo6rBK.jpg" group-title="-=eDOLCOI=- VideoOnDemen",[VOD] Ayat-Ayat Cinta 2 (2017)
 https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="emyDOLTV |VideoOnDemen",[VOD] AQUAMAN 2018
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="-=eDOLCOI=- VideoOnDemen",[VOD] AQUAMAN 2018
 http://cdn0-a.production.vidio.static6.com/uploads/1573867/ets-cahgalon-820a-b900.mp4.m3u8
-#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="emyDOLTV |VideoOnDemen",[VOD] VENOM 2018
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="-=eDOLCOI=- VideoOnDemen",[VOD] VENOM 2018
 http://cdn0-a.production.vidio.static6.com/uploads/1528359/ets-sehnom-2877-b900.mp4.m3u8
-#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="emyDOLTV |VideoOnDemen",[VOD] BUMBLEE 2018
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/capture-1545700497.jpg" group-title="-=eDOLCOI=- VideoOnDemen",[VOD] BUMBLEE 2018
 http://cdn0-a.production.vidio.static6.com/uploads/1567393/ets-bumb33-6048-b900.mp4.m3u8
-#EXTINF:0 tvg-id="avi" group-title="emyDOLTV |VideoOnDemen",[VOD] MULE (2019)
+#EXTINF:0 tvg-id="avi" group-title="-=eDOLCOI=- VideoOnDemen",[VOD] MULE (2019)
 https://www.googleapis.com/drive/v3/files/1YsXH2V6TbScWzERFrACm9lTvBLuLobcs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0 tvg-id="avi" group-title="emyDOLTV |VideoOnDemen",[VOD] Cold Pursuit (2019)
+#EXTINF:0 tvg-id="avi" group-title="-=eDOLCOI=- VideoOnDemen",[VOD] Cold Pursuit (2019)
 https://www.googleapis.com/drive/v3/files/1oSWO6PTNM1nb6TnS6PDXj0C0JdNJqRMG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="emyDOLTV |VideoOnDemen",[VOD] Avengers
+#EXTINF:-1 group-title="-=eDOLCOI=- VideoOnDemen",[VOD] Avengers
 https://www.googleapis.com/drive/v3/files/1yhH2MrY0QGE3p05JZapql-2mMWuH37dG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:0 tvg-id="avi" group-title="emyDOLTV |VideoOnDemen",[VOD] Avengers: Endgame (2019)
+#EXTINF:0 tvg-id="avi" group-title="-=eDOLCOI=- VideoOnDemen",[VOD] Avengers: Endgame (2019)
 https://www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="emyDOLTV |VideoOnDemen",[VOD] ALADIN (2019)
+#EXTINF:-1 group-title="-=eDOLCOI=- VideoOnDemen",[VOD] ALADIN (2019)
 https://www.googleapis.com/drive/v3/files/1nZQzfUOUiNDtSnfaLbDtCVbUp15tUBwF?alt=media&key=AIzaSyDVWamliE_05MzHplv8lo8PVJIp49MUfVQ
-##EXTINF:-1 group-title="emyDOLTV |VideoOnDemen",[VOD] ADVENTURE ALADIN (2019)
+##EXTINF:-1 group-title="-=eDOLCOI=- VideoOnDemen",[VOD] ADVENTURE ALADIN (2019)
 https://www.googleapis.com/drive/v3/files/1CxcWwWCfBsvIkLS01OOpekG55vohZrZW?alt=media&key=AIzaSyDVWamliE_05MzHplv8lo8PVJIp49MUfVQ
-#EXTINF:-1 group-title="emyDOLTV |VideoOnDemen",[VOD] GODZILA KING OF THE MONSTERS (2019)
+#EXTINF:-1 group-title="-=eDOLCOI=- VideoOnDemen",[VOD] GODZILA KING OF THE MONSTERS (2019)
 https://www.googleapis.com/drive/v3/files/1xc5RBl5y1gwDuka5Dcl4n8_g1BXhLlJM?alt=media&key=AIzaSyDVWamliE_05MzHplv8lo8PVJIp49MUfVQ
