@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",eD0L©O!@100+CH !PTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PzDYF10/edolcoi-TV.png",eD0L©O!@100+CH !PTV
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8?doltv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLTV EPL®|Live Feed
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PzDYF10/edolcoi-TV.png",emyDOLTV EPL®|Live Feed
 http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS474/24170c558237255a1c87bb9553c73fb2/j7tfrf3/index.m3u8?doltv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOL Cineplex24x7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PzDYF10/edolcoi-TV.png",emyDOL Cineplex24x7
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8?doltvsci.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png",emyDOLcoi OLAHRAGA|TEMP
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PzDYF10/edolcoi-TV.png",emyDOLcoi OLAHRAGA|TEMP
 #http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?gepenk.m3u8
 http://bit.ly/dolcoitvSNS
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jtbc3sports.png/320px-Jtbc3sports.png",JTBC3 FOXSPORTS
@@ -14,7 +14,11 @@ http://bit.ly/dolcoitvJTBC3F
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 #EXTINF:=1 tvg-logo="http://thewatchtv.com/wp-content/uploads/2017/12/Watch-Most-Video-TV-Live-TV-from-Kiev.jpg",MostVideo TV HD
 http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1,Hungama
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bU09VB9.png",ANIPLUS [id]
+http://210.210.155.35/dr9445/h/h02/01.m3u8?doltv.m3u8
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/karameeshtvyar/_/rsrc/1472777835650/config/customLogo.gif",KARAMEESH TV
+http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8?doltv.m3u8
+#EXTINF:-1,HUNGAMA
 http://jprdigitalott.com/media/Hungama.mpd
 ####################################################################################################
 ####################################################################################################
@@ -26,6 +30,8 @@ http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
 #EXTINF:-1 tvg-id="b4uplus.com" tvg-logo="https://b4uplus.com/images/logo.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",B4U PLUS
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-logo="https://i.imgur.com/ahqDngL.jpg?1" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",CELESTIAL MOVIES [id]
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8?doltv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",CELESTIAL CLASSIC MOVIES
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
 #EXTINF:0 tvg-id="ext" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",DOLCINEMA (Action|Triller|Adv|Drama) 
@@ -38,10 +44,10 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8?emydolbsJS.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Emy-designstyle-jungle-m.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",DOLSTARSBOX Jackie Chan
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8?emydolbsJC.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://foxmoviesasia.com/images/fm.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",FOX MOVIES HD [id]
-http://bit.ly/dolcoitvF0XM
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://foxmoviesasia.com/images/fm.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",FOX MOVIES [id]
+http://bit.ly/dolFMsdID
 #EXTINF:-1 tvg-id="HBO.hu" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20HD.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",HBO
-http://bit.ly/dolcoitvHBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1 tvg-id="HBO2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?emytv.m3u8
 #EXTINF:=1 tvg-id="Hbofamily.br" tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="-=eDOLCOI=- StasiunTV|M0VIE5",HBO FAMILY HD [id]
@@ -309,7 +315,7 @@ http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yZdUHSW.jpg" group-title="emyDOLTV |Anak Anak",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="emyDOLTV |Anak Anak",BOOMERANG
-http://185.246.209.109:8080/BOOMERANG/index.m3u8
+http://livecdnh3.tvanywhere.ae/hls/boomerang/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peach_poster_rodents.jpg/320px-Peach_poster_rodents.jpg",BigBuckBunny
 http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WnZaIlo.jpg" group-title="emyDOLTV |Anak Anak",DuckTV
