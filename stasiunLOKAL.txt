@@ -1,8 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PzDYF10/edolcoi-TV.png",eD0L©O!@100+CH !PTV
-http://web.onair-radio.eu:1935/video/video/playlist.m3u8?doltv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png",Funniest Home Videos
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:=1 tvg-logo="http://thewatchtv.com/wp-content/uploads/2017/12/Watch-Most-Video-TV-Live-TV-from-Kiev.jpg",MostVideo TV HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
